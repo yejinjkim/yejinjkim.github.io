@@ -1,14 +1,29 @@
-<<<<<<< HEAD
+?????
+========
+## Short Bio
+**Yejin Kim** is an assistant professor in the School of Biomedical Informatics at University of Texas Health Science Center (UTHealth).
+Her research interest is on data mining and machine learning for healthcare applications, particularly computational phenotyping with electronic health records (EHRs).
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll, with social features. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+She received her Ph.D. in Computer Science at Pohang University of Science and Technology (Big data and Artificial Intelligence Lab) and B.S in Industrial Engineering at Pohang University of Science and Technology (Magna cum laude). She was a visiting scholar at University of California San Diego advised by Dr. Xiaoqian Jiang. 
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+## Research Interests
+- Computational phenotyping with EHRs
+- Sequential document ranking model by recurrent neural network 
+- Tensor factorization
 
-Have a look at the Github page for more information.
+## Selected Publications
+- **Yejin Kim**, Jimeng Sun, Hwanjo Yu, and Xiaoqian Jiang. Federated Tensor Factorization for Computational Phenotyping. KDD 17
+- **Yejin Kim**, Jingyun Choi , Yosep Chong, Xiaoqian Jiang, and Hwanjo Yu. DiagTree: Diagnostic Tree for Differential Diagnosis. CIKM 17
+- **Yejin Kim**, Robert El-Kareh, Jimeng Sun, Hwanjo Yu, and Xiaoqian Jiang. Discriminative and distinct phenotype by constrained tensor factorization. Scientific Reports 2017.
+- Jingyun Choi, **Yejin Kim**, HS Kim, In Young Choi, Hwanjo Yu, Phenotyping on the Better-Than-Expected Efficacy of Moderate-Intensity Statin in Korean Patients using Tensor Factorization, PLoS One. 2018.
+-  Jingyun Choi, Mi Jung Rho, **Yejin Kim**, In Hye Yook, Hwanjo Yu, Dai-Jin Kim, In Young Choi, Smartphone Over-dependence Classification using Tensor Factorization. PLoS One 2017
+- Jingyun Choi, **Yejin Kim**, HS Kim, In Young Choi, Hwanjo Yu, Tensor-Factorization-Based Phenotyping using Group Information: Case Study on the Efficacy of Statins. ACM BCB 17
+-  **Yejin Kim**, YongHyun Park, JY Lee, In Young Choi, Hwanjo Yu. Discovery of prostate specic antigen pattern to predict castration resistant prostate cancer of androgen deprivation therapy. BMC Decision Making and Medical Informatics 2016
+- YongHyun Park, **Yejin Kim**, Hwanjo Yu, In Young Choi, Byun SS, Kwak C, Chung BH, Lee HM, Kim CS, Lee JY. Is lymphovascular invasion a powerful predictor for biochemical recurrence in pT3 N0 prostate cancer? Results from the K-CaP database. Scientific reports. 2016
+- **Yejin Kim**, JE Jeong, H Cho , DJ Jung, M Kwak, MJ Rho, Hwanjo Yu, Dai-Jin Kim, In Young Choi. Personality factors predicting smartphone addiction predisposition: behavioral inhibition and activation systems, impulsivity, and self-control. PLoS One. 2016
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
-=======
-## Welcome to GitHub Pages
+
+## Service
 
 You can use the [editor on GitHub](https://github.com/yejinjkim/yejinjkim.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
