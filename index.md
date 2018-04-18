@@ -1,4 +1,3 @@
-?????
 ========
 ## Short Bio
 **Yejin Kim** is an assistant professor in the School of Biomedical Informatics at University of Texas Health Science Center (UTHealth).
