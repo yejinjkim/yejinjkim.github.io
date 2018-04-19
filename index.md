@@ -7,19 +7,20 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 ## Research Interests
 - Computational phenotyping with EHRs
+- Privacy-preserving data mining
 - Sequential document ranking model by recurrent neural network 
 - Tensor factorization
 
 ## Selected Publications
-- **Yejin Kim**, Jimeng Sun, Hwanjo Yu, and Xiaoqian Jiang. Federated Tensor Factorization for Computational Phenotyping. KDD 17 [paper()] [slides](https://www.slideshare.net/YejinKim47/federated-tensor-factorization-for-computational-phenotyping)
-- **Yejin Kim**, Jingyun Choi , Yosep Chong, Xiaoqian Jiang, and Hwanjo Yu. DiagTree: Diagnostic Tree for Differential Diagnosis. CIKM 17 [paper()] [slides](https://www.slideshare.net/YejinKim47/diagtree-diagnostic-tree-for-differential-diagnosis-cikm17)
-- **Yejin Kim**, Robert El-Kareh, Jimeng Sun, Hwanjo Yu, and Xiaoqian Jiang. Discriminative and distinct phenotype by constrained tensor factorization. Scientific Reports 2017. [paper](https://www.nature.com/articles/s41598-017-01139-y)
+- **Yejin Kim**, Jimeng Sun, Hwanjo Yu, and Xiaoqian Jiang. Federated Tensor Factorization for Computational Phenotyping. KDD 17 [paper()] [[slides]](https://www.slideshare.net/YejinKim47/federated-tensor-factorization-for-computational-phenotyping)
+- **Yejin Kim**, Jingyun Choi , Yosep Chong, Xiaoqian Jiang, and Hwanjo Yu. DiagTree: Diagnostic Tree for Differential Diagnosis. CIKM 17 [paper()] [[slides]](https://www.slideshare.net/YejinKim47/diagtree-diagnostic-tree-for-differential-diagnosis-cikm17)
+- **Yejin Kim**, Robert El-Kareh, Jimeng Sun, Hwanjo Yu, and Xiaoqian Jiang. Discriminative and distinct phenotype by constrained tensor factorization. Scientific Reports 2017. [[paper]](https://www.nature.com/articles/s41598-017-01139-y)
 - Jingyun Choi, **Yejin Kim**, HS Kim, In Young Choi, Hwanjo Yu, Phenotyping on the Better-Than-Expected Efficacy of Moderate-Intensity Statin in Korean Patients using Tensor Factorization, PLoS One. 2018.
--  Jingyun Choi, Mi Jung Rho, **Yejin Kim**, In Hye Yook, Hwanjo Yu, Dai-Jin Kim, In Young Choi, Smartphone Over-dependence Classification using Tensor Factorization. PLoS One 2017
+-  Jingyun Choi, Mi Jung Rho, **Yejin Kim**, In Hye Yook, Hwanjo Yu, Dai-Jin Kim, In Young Choi, Smartphone Over-dependence Classification using Tensor Factorization. PLoS One 2017. [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177629)
 - Jingyun Choi, **Yejin Kim**, HS Kim, In Young Choi, Hwanjo Yu, Tensor-Factorization-Based Phenotyping using Group Information: Case Study on the Efficacy of Statins. ACM BCB 17
--  **Yejin Kim**, YongHyun Park, JY Lee, In Young Choi, Hwanjo Yu. Discovery of prostate specic antigen pattern to predict castration resistant prostate cancer of androgen deprivation therapy. BMC Decision Making and Medical Informatics 2016 [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959354/)
-- YongHyun Park, **Yejin Kim**, Hwanjo Yu, In Young Choi, Byun SS, Kwak C, Chung BH, Lee HM, Kim CS, Lee JY. Is lymphovascular invasion a powerful predictor for biochemical recurrence in pT3 N0 prostate cancer? Results from the K-CaP database. Scientific reports. 2016
-- **Yejin Kim**, JE Jeong, H Cho , DJ Jung, M Kwak, MJ Rho, Hwanjo Yu, Dai-Jin Kim, In Young Choi. Personality factors predicting smartphone addiction predisposition: behavioral inhibition and activation systems, impulsivity, and self-control. PLoS One. 2016
+-  **Yejin Kim**, YongHyun Park, JY Lee, In Young Choi, Hwanjo Yu. Discovery of prostate specic antigen pattern to predict castration resistant prostate cancer of androgen deprivation therapy. BMC Decision Making and Medical Informatics 2016 [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959354/)
+- YongHyun Park, **Yejin Kim**, Hwanjo Yu, In Young Choi, Byun SS, Kwak C, Chung BH, Lee HM, Kim CS, Lee JY. Is lymphovascular invasion a powerful predictor for biochemical recurrence in pT3 N0 prostate cancer? Results from the K-CaP database. Scientific reports. 2016 [[paper]](https://www.nature.com/articles/srep25419)
+- **Yejin Kim**, JE Jeong, H Cho , DJ Jung, M Kwak, MJ Rho, Hwanjo Yu, Dai-Jin Kim, In Young Choi. Personality factors predicting smartphone addiction predisposition: behavioral inhibition and activation systems, impulsivity, and self-control. PLoS One. 2016 [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159788)
 
 
 ## Service
