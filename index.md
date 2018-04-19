@@ -1,17 +1,3 @@
-# Yejin (Jaylynn) Kim 
-Assistant Professor
-
-School of Biomedical Informatics
-
-University of Texas Health Science Center at Houston
-
-yejin.kim89 At gmail.com
-
-7000 Fannin, Suite 600
-
-Houston, Texas 77030
-
-
 
 ## Short Bio
 **Yejin Kim** is an assistant professor in [the School of Biomedical Informatics](https://sbmi.uth.edu/) at [University of Texas Health Science Center (UTHealth)](https://www.uth.edu/).
