@@ -1,5 +1,7 @@
 
-## Short Bio
+====
+
+## Short bio
 **Yejin Kim** is an assistant professor in [the School of Biomedical Informatics](https://sbmi.uth.edu/) at [University of Texas Health Science Center (UTHealth)](https://www.uth.edu/).
 Her research interest is on data mining and machine learning for healthcare applications, particularly computational phenotyping with electronic health records (EHRs).
 
