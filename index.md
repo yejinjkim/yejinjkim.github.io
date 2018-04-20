@@ -1,4 +1,4 @@
-<img align="right" width="200" src="https://github.com/yejinjkim/yejinjkim.github.io/blob/master/profile.png">
+<img align="right" width="200" src="https://photos-3.dropbox.com/t/2/AAC8oNn1K2pcgmBuLKNy8C4aiXZ_NZtcHzPyLkps60CnpQ/12/5274716/png/32x32/1/_/1/2/profile.png/EPmk-QMYjLUtIAcoBw/U6k9uN7xYH1F7NjZjIgO-jn44jmVBvoEujvKz1hXBDQ?preserve_transparency=1&size=2048x1536&size_mode=3">
 
 Yejin (Jaylynn) Kim
 ==========
