@@ -11,7 +11,7 @@ Houston, Texas 77030
 **Yejin Kim** is an assistant professor in the School of Biomedical Informatics at University of Texas Health Science Center (UTHealth).
 Her research interest is on data mining and machine learning for healthcare applications, particularly computational phenotyping with electronic health records (EHRs).
 
-She received her Ph.D. in Computer Science at Pohang University of Science and Technology ([Big data and Artificial Intelligence Lab](https://sites.google.com/site/postechdm/)) and B.S in Industrial Engineering at Pohang University of Science and Technology (Magna cum laude). She was a visiting scholar at University of California San Diego advised by Dr. Xiaoqian Jiang. 
+She received her Ph.D. in Computer Science at Pohang University of Science and Technology ([Big data and Artificial Intelligence Lab](https://sites.google.com/site/postechdm/)) and B.S in Industrial Engineering at Pohang University of Science and Technology (Magna cum laude). She was a visiting scholar at University of California San Diego advised by Dr. Xiaoqian Jiang. For more details, view my [cv](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/general%20cv.pdf)
 
 ## Research Interests
 - Computational phenotyping with EHRs
