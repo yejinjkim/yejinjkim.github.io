@@ -3,12 +3,12 @@
 Yejin (Jaylynn) Kim
 ==========
 Assistant Professor  
-School of Biomedical Informatics  
-University of Texas Health Science Center at Houston  
+[School of Biomedical Informatics](https://sbmi.uth.edu/)  
+[University of Texas Health Science Center at Houston](https://www.uth.edu/)  
 7000 Fannin, Suite 600  
 Houston, Texas 77030
 
-**Yejin Kim** is an assistant professor in [the School of Biomedical Informatics](https://sbmi.uth.edu/) at [University of Texas Health Science Center (UTHealth)](https://www.uth.edu/).
+**Yejin Kim** is an assistant professor in the School of Biomedical Informatics at University of Texas Health Science Center (UTHealth).
 Her research interest is on data mining and machine learning for healthcare applications, particularly computational phenotyping with electronic health records (EHRs).
 
 She received her Ph.D. in Computer Science at Pohang University of Science and Technology ([Big data and Artificial Intelligence Lab](https://sites.google.com/site/postechdm/)) and B.S in Industrial Engineering at Pohang University of Science and Technology (Magna cum laude). She was a visiting scholar at University of California San Diego advised by Dr. Xiaoqian Jiang. 
