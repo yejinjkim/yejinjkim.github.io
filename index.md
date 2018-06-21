@@ -32,6 +32,7 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Service
+- Program Comittee Member, [AAAI 2019]()
 - Reviewer, [AMIA 2018 Annual Symposium](https://www.amia.org/amia2018/spc)
 - Reviewer, [World Wide Web Conference 2018](https://www2018.thewebconf.org/)
 - Reviewer, [AMIA 2017 Annual Symposium](https://www.amia.org/amia2017/spc)
