@@ -1,4 +1,4 @@
-<img align="right" width="300" src="https://github.com/yejinjkim/yejinjkim.github.io/blob/master/profile.png">
+<img align="right" width="300" src="https://sbmi.uth.edu/faculty-and-staff/gfx/Yejin-Kim.jpg">
 
 Yejin Jaylynn Kim
 ==========
