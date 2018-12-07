@@ -37,3 +37,12 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 - Reviewer, [World Wide Web Conference 2018](https://www2018.thewebconf.org/)
 - Reviewer, [AMIA 2017 Annual Symposium](https://www.amia.org/amia2017/spc)
 - Program Committee Member, [ACM-BCB 2017 Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
+
+
+## Invited Talks
+- "Interpretable and Federated Tensor Factorization for Computational Phenotyping", Department of Computer Engineering, Hong Kong Baptist University, June 20 2018, Hong Kong
+- "Tensor Factorization for Computational Phenotyping", School of Biomedical Informatics, University of Texas Health Science Center at Houston, Nov 28 2018, Houston, Texas
+- "Data Science and Applications", Department of Management Engineering, Ulsan National Institute of Science and Technology, May 29 2018, Ulsan, Korea
+- "Data Science and Applications", Korea University WISET, Sep 12 2018, Seoul, Korea
+- "Tensor Factorization for Computational Phenotyping", KCC 2017 Spotlight Session for Young Women Scholars Jun 21 2017, Jeju, Korea
+- "Tutorial: Matrix/Tensor factorization and its applications", Department of Medical Informatics, Catholic University of Korea, Nov 20 2017, Seoul, Korea
