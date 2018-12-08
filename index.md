@@ -1,4 +1,4 @@
-<img align="right" width="300" src="https://sbmi.uth.edu/faculty-and-staff/gfx/Yejin-Kim.jpg">
+<img align="right" width="150" src="https://sbmi.uth.edu/faculty-and-staff/gfx/Yejin-Kim.jpg">
 
 Yejin Jaylynn Kim
 ==========
