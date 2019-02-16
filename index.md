@@ -50,4 +50,5 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 - "Tutorial: Matrix/Tensor factorization and its applications", Department of Medical Informatics, Catholic University of Korea, Nov 20 2017, Seoul, Korea
 - "DiagTree: Diagnostic Tree for Differential Diagnosis", The Korea Society of Medical Informatics, Nov 17 2017, Seoul, Korea
 - "DiagTree: Diagnostic Tree for Differential Diagnosis", International Conference on Information and Management, Nov 12 2017, Singapore
+- "Federated Tensor Factorization for Computational Phenotyping (poster)". The 23rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Aug 14, 2017, Halifax, Nova Scotia, Canada 
 - "Discovery of prostate specific antigen pattern to predict castration resistant prostate cancer of androgen deprivation therapy", ACM Ninth International Workshop on Data and Text Mining in Biomedical Informatics in conjunction  with CIKM, Oct 23, 2015, Melbourne, Australia 
