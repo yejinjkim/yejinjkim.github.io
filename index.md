@@ -46,3 +46,5 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 - "Data Science and Applications", Korea University WISET, Sep 12 2018, Seoul, Korea
 - "Tensor Factorization for Computational Phenotyping", KCC 2017 Spotlight Session for Young Women Scholars Jun 21 2017, Jeju, Korea
 - "Tutorial: Matrix/Tensor factorization and its applications", Department of Medical Informatics, Catholic University of Korea, Nov 20 2017, Seoul, Korea
+- "DiagTree: Diagnostic Tree for Differential Diagnosis", The Korea Society of Medical Informatics, Nov 17 2017, Seoul, Korea
+- "DiagTree: Diagnostic Tree for Differential Diagnosis", International Conference on Information and Management, Nov 12 2017, Singapore
