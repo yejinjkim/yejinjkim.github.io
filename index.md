@@ -40,6 +40,7 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Invited Talks
+- "Discovering Underlying Concepts with Tensor Factorization", Center for Health Security and Phenotyping, School of Biomedical Informatics, University of Texas Health Science Center at Houston, Jan 18, 2019, Houston, Texas
 - "Interpretable and Federated Tensor Factorization for Computational Phenotyping", Department of Computer Engineering, Hong Kong Baptist University, June 20 2018, Hong Kong
 - "Tensor Factorization for Computational Phenotyping", School of Biomedical Informatics, University of Texas Health Science Center at Houston, Nov 28 2018, Houston, Texas
 - "Data Science and Applications", Department of Management Engineering, Ulsan National Institute of Science and Technology, May 29 2018, Ulsan, Korea
