@@ -34,6 +34,8 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Service
+- Co-organizer, [CHSP Machine Learning Hackathon 2019](https://sbmi.uth.edu/hackathon/)
+- Program Committee Member, [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)
 - Program Committee Member, [2019 KDD Workshop on Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/)
 - Program Committee Member, [IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html)
 - Reviewer, [AMIA 2019 Annual Symposium](https://www.amia.org/amia2019/spc)
@@ -45,6 +47,7 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Invited Talks
+- "Sequential and Diverse Recommendation with Long Tail", International Joint Conference on Artificial Intelligence August 14, 2019, Macau, China
 - "Discovering Underlying Concepts with Tensor Factorization", Center for Health Security and Phenotyping, School of Biomedical Informatics, University of Texas Health Science Center at Houston, Jan 18, 2019, Houston, Texas
 - "Interpretable and Federated Tensor Factorization for Computational Phenotyping", Department of Computer Engineering, Hong Kong Baptist University, June 20 2018, Hong Kong
 - "Tensor Factorization for Computational Phenotyping", School of Biomedical Informatics, University of Texas Health Science Center at Houston, Nov 28 2018, Houston, Texas
