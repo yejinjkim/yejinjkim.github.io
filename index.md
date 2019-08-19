@@ -37,7 +37,7 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 - Co-organizer, [CHSP Machine Learning Hackathon 2019](https://sbmi.uth.edu/hackathon/)
 - Program Committee Member, [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)
 - Program Committee Member, [2019 KDD Workshop on Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/)
-- Program Committee Member, [IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html)
+- Program Committee Member, [2019 IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html)
 - Reviewer, [AMIA 2019 Annual Symposium](https://www.amia.org/amia2019/spc)
 - Program Committee Member, [AAAI 2019](https://aaai.org/Conferences/AAAI-19/)
 - Reviewer, [AMIA 2018 Annual Symposium](https://www.amia.org/amia2018/spc)
