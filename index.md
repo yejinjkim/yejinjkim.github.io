@@ -16,9 +16,9 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 ## Research Interests
 - Computational phenotyping with EHRs
-- Privacy-preserving data mining
-- Sequential document ranking model by recurrent neural network 
 - Tensor factorization
+- Sequential prediction/detection
+
 
 ## Selected Publications
 - **Yejin Kim**, Kwangseob Kim, Chanyoung Park, Hwanjo Yu. Sequential and Diverse Recommendation with Long Tail. IJCAI 2019. 
