@@ -22,8 +22,8 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 ## Selected Publications
 - **Yejin Kim**, Xiaoqian Jiang, Luyao Chen, Xiaojin Li, Licong Cui. Discriminative Sleep Patterns of Alzheimer's Disease via Tensor Factorization. AMIA Annual Symposium. 2020
-- **Yejin Kim**, Kwangseob Kim, Chanyoung Park, Hwanjo Yu. Sequential and Diverse Recommendation with Long Tail. IJCAI 2019. 
-- **Yejin Kim**, Luca Giancardo, Danilo Pena, Xiaoqian Jiang. Finding Discriminative Subgroups of Brain Regions using Tensor Factorization. ACM KDD workshop on Applied Data Science for Healthcare. 2019
+- **Yejin Kim**, Kwangseob Kim, Chanyoung Park, Hwanjo Yu. Sequential and Diverse Recommendation with Long Tail. IJCAI 2019. [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/IJCAI19%20camera-ready.pdf)
+- **Yejin Kim**, Luca Giancardo, Danilo Pena, Xiaoqian Jiang. Finding Discriminative Subgroups of Brain Regions using Tensor Factorization. ACM KDD workshop on Applied Data Science for Healthcare. 2019. [[paper]]()
 - Jingyun Choi, **Yejin Kim**, HS Kim, In Young Choi, Hwanjo Yu, Phenotyping of Korean patients with better-than-expected efficacy of moderate-intensity statins using tensor factorization, PLoS One. 2018. [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197518)
 - **Yejin Kim**, Jimeng Sun, Hwanjo Yu, and Xiaoqian Jiang. Federated Tensor Factorization for Computational Phenotyping. KDD 17 [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/kdd17%20federated%20tensor%20factorization.pdf) [[slides]](https://www.slideshare.net/YejinKim47/federated-tensor-factorization-for-computational-phenotyping) [[video]](https://www.youtube.com/watch?v=XmUPnomNzk8)
 - **Yejin Kim**, Jingyun Choi , Yosep Chong, Xiaoqian Jiang, and Hwanjo Yu. DiagTree: Diagnostic Tree for Differential Diagnosis. CIKM 17 [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/cikm17%20DiagTree.pdf) [[slides]](https://www.slideshare.net/YejinKim47/diagtree-diagnostic-tree-for-differential-diagnosis-cikm17-94403189)
