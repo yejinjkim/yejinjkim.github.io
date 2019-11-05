@@ -11,7 +11,7 @@ Houston, Texas 77030
 **Yejin Kim** is an assistant professor in the School of Biomedical Informatics at University of Texas Health Science Center (UTHealth) and founding member of Center for Health Security and Phenotyping since 2018. 
 Her research interest is on data mining and machine learning for healthcare applications, particularly computational phenotyping with electronic health records (EHRs).
 
-She received her Ph.D. in Computer Science at Pohang University of Science and Technology ([Big data and Artificial Intelligence Lab](https://sites.google.com/site/postechdm/)) and B.S in Industrial Engineering at Pohang University of Science and Technology (Magna cum laude). She was a visiting scholar at University of California San Diego advised by Dr. Xiaoqian Jiang. 
+She received her Ph.D. in Computer Science at Pohang University of Science and Technology ([Big data and Artificial Intelligence Lab](https://sites.google.com/site/postechdm/)) and B.S in Industrial Engineering at Pohang University of Science and Technology. She was a visiting scholar at University of California San Diego advised by Dr. Xiaoqian Jiang. 
 
 
 ## Research Interests
@@ -36,6 +36,7 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Service
+- Reviewer, Nature Scientific Reports, 2019-
 - Co-organizer, [CHSP Machine Learning Hackathon 2019](https://sbmi.uth.edu/hackathon/)
 - Program Committee Member, [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)
 - Program Committee Member, [2019 KDD Workshop on Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/)
@@ -49,6 +50,7 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Invited Talks
+- "Optimized Medication Regimen for Parkinson's Disease", Rice Data Science Conference October 15, 2019, Houston, Texas
 - "Sequential and Diverse Recommendation with Long Tail", International Joint Conference on Artificial Intelligence August 14, 2019, Macau, China
 - "Finding Discriminative Subgroups of Brain Regions using Tensor Factorization", ACM KDD workshop on Applied Data Science for Healthcare. August 4, 2019, Anchorage, Alaska
 - "Discovering Underlying Concepts with Tensor Factorization", Center for Health Security and Phenotyping, School of Biomedical Informatics, University of Texas Health Science Center at Houston, Jan 18, 2019, Houston, Texas
