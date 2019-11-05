@@ -21,7 +21,7 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Selected Publications
-- **Yejin Kim**, Xiaoqian Jiang, Luyao Chen, Xiaojin Li, Licong Cui. Discriminative Sleep Patterns of Alzheimer's Disease via Tensor Factorization. AMIA Annual Symposium. 2020. [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/Sleeping%20patterns%20of%20Alzheimer's%20Disease%20(1).pdf)
+- **Yejin Kim**, Xiaoqian Jiang, Luyao Chen, Xiaojin Li, Licong Cui. Discriminative Sleep Patterns of Alzheimer's Disease via Tensor Factorization. AMIA Annual Symposium. 2019. [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/Sleeping%20patterns%20of%20Alzheimer's%20Disease%20(1).pdf)
 - **Yejin Kim**, Kwangseob Kim, Chanyoung Park, Hwanjo Yu. Sequential and Diverse Recommendation with Long Tail. IJCAI 2019. [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/IJCAI19%20camera-ready.pdf) [[slides]](https://www.slideshare.net/YejinKim47/sequential-and-diverse-recommendation-with-long-tail)
 - **Yejin Kim**, Luca Giancardo, Danilo Pena, Xiaoqian Jiang. Finding Discriminative Subgroups of Brain Regions using Tensor Factorization. ACM KDD workshop on Applied Data Science for Healthcare. 2019. [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/DSHealth%20(1).pdf)
 - Jingyun Choi, **Yejin Kim**, HS Kim, In Young Choi, Hwanjo Yu, Phenotyping of Korean patients with better-than-expected efficacy of moderate-intensity statins using tensor factorization, PLoS One. 2018. [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197518)
@@ -50,6 +50,7 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Invited Talks
+- "Discriminative Sleep Patterns of Alzheimer's Disease via Tensor Factorization", AMIA 2019, Washington D.C.
 - "Optimized Medication Regimen for Parkinson's Disease", Rice Data Science Conference October 15, 2019, Houston, Texas
 - "Sequential and Diverse Recommendation with Long Tail", International Joint Conference on Artificial Intelligence August 14, 2019, Macau, China
 - "Finding Discriminative Subgroups of Brain Regions using Tensor Factorization", ACM KDD workshop on Applied Data Science for Healthcare. August 4, 2019, Anchorage, Alaska
