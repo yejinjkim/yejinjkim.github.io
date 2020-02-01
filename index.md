@@ -20,7 +20,22 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 - Sequential prediction/detection
 
 
-## Selected Publications
+## Service
+- Reviewer, Nature Scientific Reports, 2019-
+- Co-organizer, [SBMI Machine Learning Hackathon 2019](https://sbmi.uth.edu/hackathon/)
+- Program Committee Member, [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)
+- Program Committee Member, [2020 WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php)
+- Program Committee Member, [2019 KDD Workshop on Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/)
+- Program Committee Member, [2019 IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html)
+- Reviewer, [AMIA 2019 Annual Symposium](https://www.amia.org/amia2019/spc)
+- Program Committee Member, [AAAI 2019](https://aaai.org/Conferences/AAAI-19/)
+- Reviewer, [AMIA 2018 Annual Symposium](https://www.amia.org/amia2018/spc)
+- Reviewer, [World Wide Web Conference 2018](https://www2018.thewebconf.org/)
+- Reviewer, [AMIA 2017 Annual Symposium](https://www.amia.org/amia2017/spc)
+- Program Committee Member, [ACM-BCB 2017 Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
+
+
+## Publications
 - **Yejin Kim**, Xiaoqian Jiang, Luyao Chen, Xiaojin Li, Licong Cui. Discriminative Sleep Patterns of Alzheimer's Disease via Tensor Factorization. AMIA Annual Symposium. 2019. [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/Sleeping%20patterns%20of%20Alzheimer's%20Disease%20(1).pdf)
 - **Yejin Kim**, Kwangseob Kim, Chanyoung Park, Hwanjo Yu. Sequential and Diverse Recommendation with Long Tail. IJCAI 2019. [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/IJCAI19%20camera-ready.pdf) [[slides]](https://www.slideshare.net/YejinKim47/sequential-and-diverse-recommendation-with-long-tail)
 - **Yejin Kim**, Luca Giancardo, Danilo Pena, Xiaoqian Jiang. Finding Discriminative Subgroups of Brain Regions using Tensor Factorization. ACM KDD workshop on Applied Data Science for Healthcare. 2019. [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/DSHealth%20(1).pdf)
@@ -35,22 +50,9 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 - **Yejin Kim**, JE Jeong, H Cho , DJ Jung, M Kwak, MJ Rho, Hwanjo Yu, Dai-Jin Kim, In Young Choi. Personality factors predicting smartphone addiction predisposition: behavioral inhibition and activation systems, impulsivity, and self-control. PLoS One. 2016 [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159788)
 
 
-## Service
-- Reviewer, Nature Scientific Reports, 2019-
-- Co-organizer, [CHSP Machine Learning Hackathon 2019](https://sbmi.uth.edu/hackathon/)
-- Program Committee Member, [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)
-- Program Committee Member, [2020 WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php)
-- Program Committee Member, [2019 KDD Workshop on Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/)
-- Program Committee Member, [2019 IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html)
-- Reviewer, [AMIA 2019 Annual Symposium](https://www.amia.org/amia2019/spc)
-- Program Committee Member, [AAAI 2019](https://aaai.org/Conferences/AAAI-19/)
-- Reviewer, [AMIA 2018 Annual Symposium](https://www.amia.org/amia2018/spc)
-- Reviewer, [World Wide Web Conference 2018](https://www2018.thewebconf.org/)
-- Reviewer, [AMIA 2017 Annual Symposium](https://www.amia.org/amia2017/spc)
-- Program Committee Member, [ACM-BCB 2017 Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
 
-
-## Invited Talks
+## Presentation
+- "Temporal Phenotyping for Transitional Disease Progress: an Application to Epilepsy and Alzheimer’s Disease", WSDM Workshop Healthcare Day 2020, Houston, Texas
 - "Discriminative Sleep Patterns of Alzheimer's Disease via Tensor Factorization", AMIA 2019, Washington D.C.
 - "Optimized Medication Regimen for Parkinson's Disease", Rice Data Science Conference October 15, 2019, Houston, Texas
 - "Sequential and Diverse Recommendation with Long Tail", International Joint Conference on Artificial Intelligence August 14, 2019, Macau, China
