@@ -21,8 +21,9 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Service
+- Program Committee Member, [IEEE International Conference on Healthcare Informatics. 2020](http://ichi2020.de/)
 - Reviewer, Nature Scientific Reports, 2019-
-- Co-organizer, [SBMI Machine Learning Hackathon 2019](https://sbmi.uth.edu/hackathon/)
+- Co-organizer, [SBMI Machine Learning Hackathon 2019-](https://sbmi.uth.edu/hackathon/)
 - Program Committee Member, [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)
 - Program Committee Member, [2020 WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php)
 - Program Committee Member, [2019 KDD Workshop on Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/)
