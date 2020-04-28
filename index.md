@@ -38,7 +38,6 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Publications
--
 - **Yejin Kim**, Samden D Lhatoo, GQ Zhang, Luyao Chen, Xiaoqian Jiang. Temporal Phenotyping for Transitional Disease
 Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedical Informatics. 2020 (accepted)
 - **Yejin Kim**, Xiaoqian Jiang, Luca Giancardo, Danilo Pena, Avram S. Bukhbinder, Albert Y. Amran, and Paul E. Schulz. Multimodal Phenotyping of Alzheimer’s Disease with Longitudinal Magnetic Resonance Imaging and Cognitive Function Data. Scientific Reports, 2020 [[paper]](https://www.nature.com/articles/s41598-020-62263-w)
