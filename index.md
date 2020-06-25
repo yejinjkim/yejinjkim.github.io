@@ -39,9 +39,9 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 ## Publications
 - **Yejin Kim**, Samden D Lhatoo, GQ Zhang, Luyao Chen, Xiaoqian Jiang. Temporal Phenotyping for Transitional Disease
-Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedical Informatics. 2020 (accepted)
+Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedical Informatics. 2020 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1532046420300903)
 - **Yejin Kim**, Xiaoqian Jiang, Luca Giancardo, Danilo Pena, Avram S. Bukhbinder, Albert Y. Amran, and Paul E. Schulz. Multimodal Phenotyping of Alzheimer’s Disease with Longitudinal Magnetic Resonance Imaging and Cognitive Function Data. Scientific Reports, 2020 [[paper]](https://www.nature.com/articles/s41598-020-62263-w)
-- **Yejin Kim**, Xiaoqian Jiang, Luyao Chen, Xiaojin Li, Licong Cui. Discriminative Sleep Patterns of Alzheimer's Disease via Tensor Factorization. AMIA Annual Symposium. 2019. [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/Sleeping%20patterns%20of%20Alzheimer's%20Disease%20(1).pdf)
+- **Yejin Kim**, Xiaoqian Jiang, Luyao Chen, Xiaojin Li, Licong Cui. Discriminative Sleep Patterns of Alzheimer's Disease via Tensor Factorization. AMIA Annual Symposium. 2019. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153114/)
 - **Yejin Kim**, Kwangseob Kim, Chanyoung Park, Hwanjo Yu. Sequential and Diverse Recommendation with Long Tail. IJCAI 2019. [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/IJCAI19%20camera-ready.pdf) [[slides]](https://www.slideshare.net/YejinKim47/sequential-and-diverse-recommendation-with-long-tail)
 - **Yejin Kim**, Luca Giancardo, Danilo Pena, Xiaoqian Jiang. Finding Discriminative Subgroups of Brain Regions using Tensor Factorization. ACM KDD workshop on Applied Data Science for Healthcare. 2019. [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/DSHealth%20(1).pdf)
 - Jingyun Choi, **Yejin Kim**, HS Kim, In Young Choi, Hwanjo Yu, Phenotyping of Korean patients with better-than-expected efficacy of moderate-intensity statins using tensor factorization, PLoS One. 2018. [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197518)
