@@ -21,6 +21,9 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Service
+- Reviewer, Knowledge and Information System, 2020
+- Reviewer, JAMA Network Open, 2020
+- Program Committee Member, [2020 AMIA Knowledge Discovery and Data Mining Working Group](https://www.amia.org/programs/working-groups/knowledge-discovery-and-data-mining)
 - Program Committee Member, [2020 KDD Workshop on Applied Data Science for Healthcare]
 - Program Committee Member, [IEEE International Conference on Healthcare Informatics. 2020](http://ichi2020.de/)
 - Reviewer, Nature Scientific Reports, 2019-
@@ -57,6 +60,9 @@ Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedi
 
 
 ## Presentation
+- "Causal Pathway to Analyze Racial Disparities in Alzheimer’s Disease and Related Dementia", Alzheimer's Association International Conference, 2020 [video](https://player.vimeo.com/video/434931988)
+- 
+
 - "Temporal Phenotyping for Transitional Disease Progress: an Application to Epilepsy and Alzheimer’s Disease", WSDM Workshop Healthcare Day 2020, Houston, Texas
 - "Discriminative Sleep Patterns of Alzheimer's Disease via Tensor Factorization", AMIA 2019, Washington D.C.
 - "Optimized Medication Regimen for Parkinson's Disease", Rice Data Science Conference October 15, 2019, Houston, Texas
@@ -73,3 +79,6 @@ Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedi
 - "DiagTree: Diagnostic Tree for Differential Diagnosis", International Conference on Information and Management, Nov 12 2017, Singapore
 - "Federated Tensor Factorization for Computational Phenotyping (poster)". The 23rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Aug 14, 2017, Halifax, Nova Scotia, Canada 
 - "Discovery of prostate specific antigen pattern to predict castration resistant prostate cancer of androgen deprivation therapy", ACM Ninth International Workshop on Data and Text Mining in Biomedical Informatics in conjunction  with CIKM, Oct 23, 2015, Melbourne, Australia 
+
+## Media Coverage
+Alzheimer's disease and Flu shot. (NPR)[https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows], (CNN)[https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html]
