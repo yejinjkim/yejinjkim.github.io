@@ -60,9 +60,8 @@ Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedi
 
 
 ## Presentation
-- "Causal Pathway to Analyze Racial Disparities in Alzheimer’s Disease and Related Dementia", Alzheimer's Association International Conference, 2020 [video](https://player.vimeo.com/video/434931988)
-- 
-
+- "Causal Pathway to Analyze Racial Disparities in Alzheimer’s Disease and Related Dementia", Alzheimer's Association International Conference (AAIC), 2020 [video](https://player.vimeo.com/video/434931988)
+- "Influenza Vaccination is associated with a reduced incidence of Alzheimer’s Disease", AAIC, 2020
 - "Temporal Phenotyping for Transitional Disease Progress: an Application to Epilepsy and Alzheimer’s Disease", WSDM Workshop Healthcare Day 2020, Houston, Texas
 - "Discriminative Sleep Patterns of Alzheimer's Disease via Tensor Factorization", AMIA 2019, Washington D.C.
 - "Optimized Medication Regimen for Parkinson's Disease", Rice Data Science Conference October 15, 2019, Houston, Texas
