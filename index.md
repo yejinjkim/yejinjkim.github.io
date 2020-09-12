@@ -21,6 +21,8 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Service
+- Program Comittee Member, [2021 AAAI](https://aaai.org/Conferences/AAAI-21/)
+- Program Comittee Member, [2020 BIBM IEEE International Conference on Bioinformatics & Biomedicine](https://ieeebibm.org/BIBM2020/)
 - Reviewer, Knowledge and Information System, 2020
 - Reviewer, JAMA Network Open, 2020
 - Program Committee Member, [2020 AMIA Knowledge Discovery and Data Mining Working Group](https://www.amia.org/programs/working-groups/knowledge-discovery-and-data-mining)
