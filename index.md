@@ -8,7 +8,7 @@ Assistant Professor
 7000 Fannin, Suite 600  
 Houston, Texas 77030
 
-**Yejin Kim** is an assistant professor in the School of Biomedical Informatics at University of Texas Health Science Center (UTHealth) and a founding member of [Center for Secure Healthcare Machine Learning](https://sbmi.uth.edu/shel/) since 2018. 
+**Yejin Kim** is an assistant professor in the School of Biomedical Informatics at University of Texas Health Science Center (UTHealth) and a founding member of [Center for Secure Artificial Intelligence for Healthcare](https://sbmi.uth.edu/safe/) since 2018. 
 Her research interest is on data mining and machine learning for healthcare applications, particularly computational phenotyping with electronic health records (EHRs).
 
 She received her Ph.D. in Computer Science at Pohang University of Science and Technology ([Big data and Artificial Intelligence Lab](https://sites.google.com/site/postechdm/)) and B.S in Industrial Engineering at Pohang University of Science and Technology. She was a visiting scholar at University of California San Diego advised by Dr. Xiaoqian Jiang. 
