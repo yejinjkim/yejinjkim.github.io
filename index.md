@@ -15,9 +15,9 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Research Interests
-- Computational phenotyping with EHRs
-- Tensor factorization
-- Sequential prediction/detection
+- Heterogeneous treatment effect analysis
+- Computational phenotyping with longitudinal data
+- Sequential decision making models 
 
 
 ## Service
