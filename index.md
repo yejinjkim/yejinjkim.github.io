@@ -82,4 +82,4 @@ Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedi
 - "Discovery of prostate specific antigen pattern to predict castration resistant prostate cancer of androgen deprivation therapy", ACM Ninth International Workshop on Data and Text Mining in Biomedical Informatics in conjunction  with CIKM, Oct 23, 2015, Melbourne, Australia 
 
 ## Media Coverage
-Alzheimer's disease and Flu shot. (NPR)[https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows], (CNN)[https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html]
+Alzheimer's disease and Flu shot. [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html)
