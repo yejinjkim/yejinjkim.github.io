@@ -41,7 +41,7 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 - Program Committee Member, [ACM-BCB 2017 Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
 
 
-## Publications
+## Selected publications
 - **Yejin Kim**, Shuyu Zheng, Jing Tang, W. Jim Zheng, Zhao Li, Xiaoqian Jiang. Anticancer drug synergy prediction in understudied tissues using transfer learning. Journal of American Medical Informatics. 2020. [[paper]](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaa212/5920819?guestAccessKey=80994b81-7a9b-4ce5-a64c-5cb55a3ecc33)
 - **Yejin Kim**, Samden D Lhatoo, GQ Zhang, Luyao Chen, Xiaoqian Jiang. Temporal Phenotyping for Transitional Disease
 Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedical Informatics. 2020 [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/1-s2.0-S1532046420300903-main%20(1).pdf)
@@ -61,7 +61,7 @@ Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedi
 
 
 
-## Presentation
+## Selected presentation
 - "Causal Pathway to Analyze Racial Disparities in Alzheimer’s Disease and Related Dementia", Alzheimer's Association International Conference (AAIC), 2020 [video](https://player.vimeo.com/video/434931988)
 - "Influenza Vaccination is associated with a reduced incidence of Alzheimer’s Disease", AAIC, 2020
 - "Temporal Phenotyping for Transitional Disease Progress: an Application to Epilepsy and Alzheimer’s Disease", WSDM Workshop Healthcare Day 2020, Houston, Texas
