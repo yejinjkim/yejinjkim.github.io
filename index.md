@@ -21,14 +21,13 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Service
+
+- Reviewer, JAMA Open Network, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information Syste
 - Program Comittee Member, [2021 AAAI](https://aaai.org/Conferences/AAAI-21/)
 - Program Comittee Member, [2020 BIBM IEEE International Conference on Bioinformatics & Biomedicine](https://ieeebibm.org/BIBM2020/)
-- Reviewer, Knowledge and Information System, 2020
-- Reviewer, JAMA Network Open, 2020
 - Program Committee Member, [2020 AMIA Knowledge Discovery and Data Mining Working Group](https://www.amia.org/programs/working-groups/knowledge-discovery-and-data-mining)
 - Program Committee Member, [2020 KDD Workshop on Applied Data Science for Healthcare]
 - Program Committee Member, [IEEE International Conference on Healthcare Informatics. 2020](http://ichi2020.de/)
-- Reviewer, Nature Scientific Reports, 2019-
 - Co-organizer, [SBMI Machine Learning Hackathon 2019-](https://sbmi.uth.edu/hackathon/)
 - Program Committee Member, [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)
 - Program Committee Member, [2020 WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php)
@@ -43,6 +42,7 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Publications
+- **Yejin Kim**, Shuyu Zheng, Jing Tang, W. Jim Zheng, Zhao Li, Xiaoqian Jiang. Anticancer drug synergy prediction in understudied tissues using transfer learning. Journal of American Medical Informatics. 2020. [[paper]](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaa212/5920819?guestAccessKey=80994b81-7a9b-4ce5-a64c-5cb55a3ecc33)
 - **Yejin Kim**, Samden D Lhatoo, GQ Zhang, Luyao Chen, Xiaoqian Jiang. Temporal Phenotyping for Transitional Disease
 Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedical Informatics. 2020 [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/1-s2.0-S1532046420300903-main%20(1).pdf)
 - **Yejin Kim**, Xiaoqian Jiang, Luca Giancardo, Danilo Pena, Avram S. Bukhbinder, Albert Y. Amran, and Paul E. Schulz. Multimodal Phenotyping of Alzheimer’s Disease with Longitudinal Magnetic Resonance Imaging and Cognitive Function Data. Scientific Reports, 2020 [[paper]](https://www.nature.com/articles/s41598-020-62263-w)
