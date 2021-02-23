@@ -42,7 +42,8 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Selected publications
-- **Yejin Kim**, Shuyu Zheng, Jing Tang, W. Jim Zheng, Zhao Li, Xiaoqian Jiang. Anticancer drug synergy prediction in understudied tissues using transfer learning. Journal of American Medical Informatics. 2020. [[paper]](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaa212/5920819?guestAccessKey=80994b81-7a9b-4ce5-a64c-5cb55a3ecc33)
+- **Yejin Kim**, Xiaoqian Jiang, Samden D Lhatoo, Guo-Qiang Zhang, Shiqiang Tao, Licong Cui, Xiaojin Li, Robert D Jolly 3rd, Luyao Chen, Michael Phan, Cung Ha, Marijane Detranaltes, Jiajie Zhang. A community effort for automatic detection of postictal generalized EEG suppressioin in epilepsy. BMC Medical Informatics and Decision Making. 2020. [[paper]](https://pubmed.ncbi.nlm.nih.gov/33357232/)
+-  **Yejin Kim**, Shuyu Zheng, Jing Tang, W. Jim Zheng, Zhao Li, Xiaoqian Jiang. Anticancer drug synergy prediction in understudied tissues using transfer learning. Journal of American Medical Informatics. 2020. [[paper]](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaa212/5920819?guestAccessKey=80994b81-7a9b-4ce5-a64c-5cb55a3ecc33)
 - **Yejin Kim**, Samden D Lhatoo, GQ Zhang, Luyao Chen, Xiaoqian Jiang. Temporal Phenotyping for Transitional Disease
 Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedical Informatics. 2020 [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/1-s2.0-S1532046420300903-main%20(1).pdf)
 - **Yejin Kim**, Xiaoqian Jiang, Luca Giancardo, Danilo Pena, Avram S. Bukhbinder, Albert Y. Amran, and Paul E. Schulz. Multimodal Phenotyping of Alzheimer’s Disease with Longitudinal Magnetic Resonance Imaging and Cognitive Function Data. Scientific Reports, 2020 [[paper]](https://www.nature.com/articles/s41598-020-62263-w)
@@ -62,6 +63,8 @@ Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedi
 
 
 ## Selected presentation
+- "Population-based Drug Repurposing to Treat Thrombosis in COVID-19 Patients". ISC 2021
+- "Literature Mining Approach to Extract Drug Effectiveness in Clinical Trials. An Application to Alzheimer's Disease" AMIA Informatics Summit, 2021
 - "Causal Pathway to Analyze Racial Disparities in Alzheimer’s Disease and Related Dementia", Alzheimer's Association International Conference (AAIC), 2020 [video](https://player.vimeo.com/video/434931988)
 - "Influenza Vaccination is associated with a reduced incidence of Alzheimer’s Disease", AAIC, 2020
 - "Temporal Phenotyping for Transitional Disease Progress: an Application to Epilepsy and Alzheimer’s Disease", WSDM Workshop Healthcare Day 2020, Houston, Texas
