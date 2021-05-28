@@ -43,7 +43,7 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 
 
 ## Selected publications
-- **Yejin Kim**, Jessika Suescun, Mya Schiess, Xiaoqian Jiang. Computational medication regimen for Parkinson’s disease using reinforcement learning. Nature Scientific Reports. 2021. (accepted)
+- **Yejin Kim**, Jessika Suescun, Mya Schiess, Xiaoqian Jiang. Computational medication regimen for Parkinson’s disease using reinforcement learning. Nature Scientific Reports. 2021. [[paper]](https://www.nature.com/articles/s41598-021-88619-4)
 - **Yejin Kim**, Xiaoqian Jiang, Samden D Lhatoo, Guo-Qiang Zhang, Shiqiang Tao, Licong Cui, Xiaojin Li, Robert D Jolly 3rd, Luyao Chen, Michael Phan, Cung Ha, Marijane Detranaltes, Jiajie Zhang. A community effort for automatic detection of postictal generalized EEG suppressioin in epilepsy. BMC Medical Informatics and Decision Making. 2020. [[paper]](https://pubmed.ncbi.nlm.nih.gov/33357232/)
 -  **Yejin Kim**, Shuyu Zheng, Jing Tang, W. Jim Zheng, Zhao Li, Xiaoqian Jiang. Anticancer drug synergy prediction in understudied tissues using transfer learning. Journal of American Medical Informatics. 2020. [[paper]](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaa212/5920819?guestAccessKey=80994b81-7a9b-4ce5-a64c-5cb55a3ecc33)
 - **Yejin Kim**, Samden D Lhatoo, GQ Zhang, Luyao Chen, Xiaoqian Jiang. Temporal Phenotyping for Transitional Disease
