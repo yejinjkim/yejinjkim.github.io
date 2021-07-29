@@ -23,10 +23,9 @@ She received her Ph.D. in Computer Science at Pohang University of Science and T
 ## News
 - Top 10% most cited PLoS One article in 2016
 - Selected as AAIC highlighted poster in 2020
-- Vaccine and Alzheimer studies submitted in AAIC was covered in CNN and NPR (2020)
-- 
-## Service
+- Vaccine and Alzheimer studies submitted in AAIC was covered in CNN and NPR news media (2020)
 
+## Service
 - Reviewer, JAMA Open Network, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information Syste
 - Program Comittee Member, [2021 IJCAI](https://ijcai-21.org/)
 - Program Comittee Member, [2021 AAAI](https://aaai.org/Conferences/AAAI-21/)
