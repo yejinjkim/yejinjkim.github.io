@@ -21,9 +21,9 @@ Innovating biomedical research via machine learning requires blending biological
 - Knowledge graph representation
 
 ## News
-- Top 10% most cited PLoS One article in 2016
-- Selected as AAIC highlighted poster in 2020
-- Vaccine and Alzheimer studies submitted in AAIC was covered in  [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html) CNN 
+- Top 10% most cited PLoS One article in 2016 [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159788)
+- Selected as AAIC 2020 highlighted poster
+- Vaccine and Alzheimer studies in AAIC 2020 was covered in major news media [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html)  
 
 ## Service
 - Reviewer, JAMA Open Network, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information Syste
