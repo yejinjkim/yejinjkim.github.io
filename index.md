@@ -70,6 +70,7 @@ Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedi
 
 
 ## Selected presentation
+- "Prediction of Individual Treatment Effects of Rehabiliation for Post-stroke Patients", World Stroke Congress, 2021.
 - "Population-based Drug Repurposing to Treat Thrombosis in COVID-19 Patients". ISC 2021 [ePoster](https://asa.apprisor.org/epsWelcome.cfm?CFID=7952593&CFTOKEN=ca73f34f25fd805c-997716EE-A882-88A9-42D02979DBABEDDB)
 - "Literature Mining Approach to Extract Drug Effectiveness in Clinical Trials. An Application to Alzheimer's Disease" AMIA Informatics Summit, 2021
 - "Causal Pathway to Analyze Racial Disparities in Alzheimer’s Disease and Related Dementia", Alzheimer's Association International Conference (AAIC), 2020 [video](https://player.vimeo.com/video/434931988)
