@@ -8,10 +8,10 @@ Assistant Professor
 7000 Fannin, Suite 600  
 Houston, Texas 77030
 
-**Yejin Kim** is an assistant professor in the School of Biomedical Informatics at University of Texas Health Science Center (UTHealth) and a founding member of [Center for Secure Artificial Intelligence for Healthcare](https://sbmi.uth.edu/safe/) since 2018. 
+**Yejin Kim** is an assistant professor in the School of Biomedical Informatics at University of Texas Health Science Center (UTHealth) and a founding faculty of [Center for Secure Artificial Intelligence for Healthcare](https://sbmi.uth.edu/safe/) since 2018. 
 Her research interest is on data mining and machine learning for healthcare applications, particularly treatment effect estimation, network representation, and computational phenotyping.
 
-Innovating biomedical research via machine learning requires blending biological/clinical insight into algorithmic thinking. My background in machine learning and in biomedical informatics gives me a unique perspective for discovering, defining, and solving biomedical challenges. Before joining UTHealth, I received my PhD in computer science (from Big Data and Artificial Intelligence Laboratory at Pohang University of Science and Technology). I expanded my research areas to translational drug development and disease subtyping using advanced machine learning. My pioneering computational phenotyping model was funded by the Robert Woods Johnson foundation as principal investigator. My tensor factorization models for drug repurposing significantly contributed to my team obtaining NIA R01 (Co-I) and CPRIT Rising Star awards (Co-I). During the last five years I authored 30+ articles with 330+ citations as a primary author. I have strong publication records from prestigious data science conferences (such as KDD, CIKM, and IJCAI) and high-impact translational journals (such as Scientific Reports, JBI, JAMIA, PLoS one); the PLoS one publication was selected as the top 10% most cited article in 2016. My publication covers diverse scientific inquiry (from drug development to medication regimen), data modality (from transcriptome to free text), and methodology (from causal inference to deep learning) to address critical biomedical challenges. I am mentoring 8 pre- and postdoctoral trainees from various backgrounds such as mathematics, computer science, biostatistics, pharmaceutics, and pharmacology. For professional service, I am the organizer of the SBMI Machine Learning Datathon series in Texas Medical Center since 2019. I have served as a program committee of prestigious data science and/or medical informatics conferences such as AAAI, IJCAI, KDD Data Science workshop, WWW, AMIA, IEEE-BCB, IEEE-BIBM. 
+Innovating biomedical research via machine learning requires blending biological/clinical insight into algorithmic thinking. My background in machine learning and in biomedical informatics gives me a unique perspective for discovering, defining, and solving biomedical challenges. Before joining UTHealth, I received my PhD in computer science (from Big Data and Artificial Intelligence Laboratory at Pohang University of Science and Technology). I expanded my research areas to translational drug development and disease subtyping using advanced machine learning. My pioneering computational phenotyping model was funded by the Robert Woods Johnson foundation as principal investigator. My tensor factorization models for drug repurposing significantly contributed to my team obtaining NIA R01 (Co-I) and CPRIT Rising Star awards (Co-I). During the last five years I authored 30+ articles with 330+ citations as a primary author. I have strong publication records from prestigious data science conferences (such as KDD, CIKM, and IJCAI) and high-impact translational journals (such as Scientific Reports, JBI, JAMIA, PLoS one); the PLoS one publication was selected as the top 10% most cited article in 2016. My publication covers diverse scientific inquiry (from drug development to medication regimen), data modality (from transcriptome to free text), and methodology (from causal inference to deep learning) to address critical biomedical challenges. I am mentoring 8 pre- and postdoctoral trainees from various backgrounds such as mathematics, computer science, biostatistics, pharmaceutics, and pharmacology. For professional service, I am the organizer of the SBMI Machine Learning Datathon series in Texas Medical Center since 2019. I have served as a program committee of prestigious data science and/or medical informatics conferences such as AAAI, IJCAI, KDD Applied Data Science, WWW, AMIA, IEEE-BCB, IEEE-BIBM. 
 
 
 ## Research Interests
@@ -27,23 +27,20 @@ Innovating biomedical research via machine learning requires blending biological
 
 ## Service
 - Reviewer, JAMA Open Network, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information Syste
-- Program Comittee Member, [2021 IJCAI](https://ijcai-21.org/)
-- Program Comittee Member, [2021 AAAI](https://aaai.org/Conferences/AAAI-21/)
-- Program Comittee Member, [2020 BIBM IEEE International Conference on Bioinformatics & Biomedicine](https://ieeebibm.org/BIBM2020/)
-- Program Committee Member, [2020 AMIA Knowledge Discovery and Data Mining Working Group](https://www.amia.org/programs/working-groups/knowledge-discovery-and-data-mining)
-- Program Committee Member, [2020 KDD Workshop on Applied Data Science for Healthcare]
-- Program Committee Member, [IEEE International Conference on Healthcare Informatics. 2020](http://ichi2020.de/)
+- Program Committee Member, [AAAI AI for Social Impact](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/)
+- Program Committee Member, [IJCAI](https://ijcai-21.org/)
+- Program Committee Member, [AAAI](https://aaai.org/Conferences/AAAI-21/)
+- Program Committee Member, [BIBM IEEE International Conference on Bioinformatics & Biomedicine](https://ieeebibm.org/BIBM2020/)
+- Program Committee Member, [AMIA Knowledge Discovery and Data Mining Working Group](https://www.amia.org/programs/working-groups/knowledge-discovery-and-data-mining)
+- Program Committee Member, [IEEE International Conference on Healthcare Informatics](http://ichi2020.de/)
 - Co-organizer, [SBMI Machine Learning Hackathon 2019-](https://sbmi.uth.edu/hackathon/)
-- Program Committee Member, [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)
-- Program Committee Member, [2020 WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php)
-- Program Committee Member, [2019 KDD Workshop on Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/)
-- Program Committee Member, [2019 IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html)
-- Reviewer, [AMIA 2019 Annual Symposium](https://www.amia.org/amia2019/spc)
-- Program Committee Member, [AAAI 2019](https://aaai.org/Conferences/AAAI-19/)
-- Reviewer, [AMIA 2018 Annual Symposium](https://www.amia.org/amia2018/spc)
-- Reviewer, [World Wide Web Conference 2018](https://www2018.thewebconf.org/)
-- Reviewer, [AMIA 2017 Annual Symposium](https://www.amia.org/amia2017/spc)
-- Program Committee Member, [ACM-BCB 2017 Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
+- Program Committee Member, [WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php)
+- Program Committee Member, [KDD Workshop on Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/)
+- Program Committee Member, [IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html)
+- Program Committee Member, [World Wide Web Conference 2018](https://www2018.thewebconf.org/)
+- Program Committee Member, [AMIA Annual Symposium](https://www.amia.org/amia2017/spc)
+- Program Committee Member, [ACM-BCB Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
+
 
 
 ## Selected publications
