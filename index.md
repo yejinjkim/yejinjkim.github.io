@@ -35,10 +35,11 @@ Innovating biomedical research via machine learning requires blending biological
 - Program Committee Member, [IEEE International Conference on Healthcare Informatics](http://ichi2020.de/)
 - Co-organizer, [SBMI Machine Learning Hackathon 2019-](https://sbmi.uth.edu/hackathon/)
 - Program Committee Member, [WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php)
-- Program Committee Member, [KDD Workshop on Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/)
+- Program Committee Member, [KDD Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/)
 - Program Committee Member, [IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html)
-- Program Committee Member, [World Wide Web Conference 2018](https://www2018.thewebconf.org/)
+- Program Committee Member, [World Wide Web Conference](https://www2018.thewebconf.org/)
 - Program Committee Member, [AMIA Annual Symposium](https://www.amia.org/amia2017/spc)
+- Program Committee Member, [AMIA Informatics Summit](https://amia.org/education-events/amia-2022-informatics-summit)
 - Program Committee Member, [ACM-BCB Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
 
 
