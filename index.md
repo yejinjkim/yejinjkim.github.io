@@ -28,18 +28,18 @@ Innovating biomedical research via machine learning requires blending biological
 ## Service
 - Reviewer, JAMA Open Network, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information Syste
 - Program Committee Member, [AAAI AI for Social Impact](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/)
-- Program Committee Member, [IJCAI](https://ijcai-21.org/)
-- Program Committee Member, [AAAI](https://aaai.org/Conferences/AAAI-21/)
+- Program Committee Member, [IJCAI, 2018-](https://ijcai-21.org/)
+- Program Committee Member, [AAAI, 2018-](https://aaai.org/Conferences/AAAI-21/)
 - Program Committee Member, [BIBM IEEE International Conference on Bioinformatics & Biomedicine](https://ieeebibm.org/BIBM2020/)
 - Program Committee Member, [AMIA Knowledge Discovery and Data Mining Working Group](https://www.amia.org/programs/working-groups/knowledge-discovery-and-data-mining)
-- Program Committee Member, [IEEE International Conference on Healthcare Informatics](http://ichi2020.de/)
+- Program Committee Member, [IEEE International Conference on Healthcare Informatics, 2020-](http://ichi2020.de/)
 - Co-organizer, [SBMI Machine Learning Hackathon 2019-](https://sbmi.uth.edu/hackathon/)
 - Program Committee Member, [WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php)
 - Program Committee Member, [KDD Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/)
 - Program Committee Member, [IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html)
-- Program Committee Member, [World Wide Web Conference](https://www2018.thewebconf.org/)
-- Program Committee Member, [AMIA Annual Symposium](https://www.amia.org/amia2017/spc)
-- Program Committee Member, [AMIA Informatics Summit](https://amia.org/education-events/amia-2022-informatics-summit)
+- Program Committee Member, [World Wide Web Conference, 2018](https://www2018.thewebconf.org/)
+- Program Committee Member, [AMIA Annual Symposium, 2017-](https://www.amia.org/amia2017/spc)
+- Program Committee Member, [AMIA Informatics Summit, 2019-](https://amia.org/education-events/amia-2022-informatics-summit)
 - Program Committee Member, [ACM-BCB Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
 
 
