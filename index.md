@@ -26,7 +26,7 @@ Innovating biomedical research via machine learning requires blending biological
 - Vaccine and Alzheimer studies in AAIC 2020 was covered in major news media [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html)  
 
 ## Service
-- Reviewer, JAMA Open Network, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information Syste
+- Reviewer, JAMA Open Network, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information System, Briefing in Bioinformatics
 - Program Committee Member, [AAAI AI for Social Impact](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/)
 - Program Committee Member, [IJCAI, 2018-](https://ijcai-21.org/)
 - Program Committee Member, [AAAI, 2018-](https://aaai.org/Conferences/AAAI-21/)
