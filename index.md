@@ -46,6 +46,7 @@ Innovating biomedical research via machine learning requires blending biological
 
 ## Selected publications
 Full publication list is available at [google scholar](https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ)
+- **Yejin Kim**, Kai Zhang, Sean I. Savitz, Luyao Chen, Paul E. Schulz, and Xiaoqian Jiang. Counterfactual analysis of differential comorbidity risk factors in Alzheimer’s disease and related dementias. PLoS Digital Health. 2022 [[paper]](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000018)
 - Kang-Lin Hsieh, Yinyin Wang, Luyao Chen, Zhongming Zhao, Sean Savitz, Xiaoqian Jiang, Jing Tang, and **Yejin Kim**. Drug Repurposing for COVID-19 using Graph Neural Network and Harmonizing Multiple Evidence. Nature Scientific Reports. 2021. [[paper]](https://www.nature.com/articles/s41598-021-02353-5)
 - Ziyi Li, Xiaoqian Jiang, Yizhou Wang, and **Yejin Kim**. Applied machine learning in Alzheimer's disease research: omics, imaging, and clinical data. Emerging Topic in Life Science. 2021. [[paper]](https://portlandpress.com/emergtoplifesci/article/doi/10.1042/ETLS20210249/230422/Applied-machine-learning-in-Alzheimer-s-disease)
 - **Yejin Kim**, Jessika Suescun, Mya Schiess, and Xiaoqian Jiang. Computational medication regimen for Parkinson’s disease using reinforcement learning. Nature Scientific Reports. 2021. [[paper]](https://www.nature.com/articles/s41598-021-88619-4)
