@@ -26,7 +26,7 @@ Innovating biomedical research via machine learning requires blending biological
 - Vaccine and Alzheimer studies in AAIC 2020 was covered in major news media [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html)  
 
 ## Service
-- Reviewer, JAMA Open Network, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information System, Briefing in Bioinformatics
+- Reviewer, JAMA Open Network, Cell Reports, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information System, Briefing in Bioinformatics
 - Program Committee Member, [AAAI AI for Social Impact](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/)
 - Program Committee Member, [IJCAI, 2018-](https://ijcai-21.org/)
 - Program Committee Member, [AAAI, 2018-](https://aaai.org/Conferences/AAAI-21/)
@@ -46,6 +46,7 @@ Innovating biomedical research via machine learning requires blending biological
 
 ## Selected publications
 Full publication list is available at [google scholar](https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ)
+- Yan Ding, Xiaoqian Jiang, **Yejin Kim**, Relational graph convolutional networks for predicting blood-brain barrier penetration of drug molecules, Bioinformatics. 2022 (accepted)
 - **Yejin Kim**, Kai Zhang, Sean I. Savitz, Luyao Chen, Paul E. Schulz, and Xiaoqian Jiang. Counterfactual analysis of differential comorbidity risk factors in Alzheimer’s disease and related dementias. PLoS Digital Health. 2022 [[paper]](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000018)
 - Kang-Lin Hsieh, Yinyin Wang, Luyao Chen, Zhongming Zhao, Sean Savitz, Xiaoqian Jiang, Jing Tang, and **Yejin Kim**. Drug Repurposing for COVID-19 using Graph Neural Network and Harmonizing Multiple Evidence. Nature Scientific Reports. 2021. [[paper]](https://www.nature.com/articles/s41598-021-02353-5)
 - Ziyi Li, Xiaoqian Jiang, Yizhou Wang, and **Yejin Kim**. Applied machine learning in Alzheimer's disease research: omics, imaging, and clinical data. Emerging Topic in Life Science. 2021. [[paper]](https://portlandpress.com/emergtoplifesci/article/doi/10.1042/ETLS20210249/230422/Applied-machine-learning-in-Alzheimer-s-disease)
