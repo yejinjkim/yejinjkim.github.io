@@ -23,7 +23,7 @@ Innovating biomedical research via machine learning requires blending biological
 ## News
 - Top 10% most cited PLoS One article in 2016 [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159788)
 - Selected as AAIC 2020 highlighted poster
-- Vaccine and Alzheimer studies in AAIC 2020 was covered in major news media [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html)  
+- Vaccine and Alzheimer studies was covered in major news media [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html), and [ScienceDaily](https://www.sciencedaily.com/releases/2022/06/220624123814.htm)  
 
 ## Service
 - Reviewer, JAMA Open Network, Cell Reports, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information System, Briefing in Bioinformatics
@@ -35,7 +35,8 @@ Innovating biomedical research via machine learning requires blending biological
 
 ## Selected publications
 Full publication list is available at [google scholar](https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ)
-- Yan Ding, Xiaoqian Jiang, and **Yejin Kim**, Relational graph convolutional networks for predicting blood-brain barrier penetration of drug molecules, Bioinformatics. 2022 (accepted)
+- Yan Ding, Xiaoqian Jiang, and **Yejin Kim**, Relational graph convolutional networks for predicting blood-brain barrier penetration of drug molecules, Bioinformatics. 2022 [[paper]](https://academic.oup.com/bioinformatics/article-abstract/38/10/2826/6564684?redirectedFrom=fulltext)
+-  Bukhbinder, Avram S., Ling, Yaobin, Hasan, Omar,  Jiang, Xiaoqian, Kim, Yejin, Phelps, Kamal N., Schmandt, Rosemarie E., Amran, Albert, Coburn, Ryan, Ramesh, Srivathsan, Xiao, Qian, Schulz, Paul E, Risk of Alzheimer’s Disease Following Influenza Vaccination: A Claims-Based Cohort Study Using Propensity Score Matching. Journal of Alzheimer's Disease, 1 Jan. 2022 : 1 – 14. [[paper]](https://content.iospress.com/articles/journal-of-alzheimers-disease/jad220361)
 - **Yejin Kim**, Kai Zhang, Sean I. Savitz, Luyao Chen, Paul E. Schulz, and Xiaoqian Jiang. Counterfactual analysis of differential comorbidity risk factors in Alzheimer’s disease and related dementias. PLoS Digital Health. 2022 [[paper]](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000018)
 - Kang-Lin Hsieh, Yinyin Wang, Luyao Chen, Zhongming Zhao, Sean Savitz, Xiaoqian Jiang, Jing Tang, and **Yejin Kim**. Drug Repurposing for COVID-19 using Graph Neural Network and Harmonizing Multiple Evidence. Nature Scientific Reports. 2021. [[paper]](https://www.nature.com/articles/s41598-021-02353-5)
 - Ziyi Li, Xiaoqian Jiang, Yizhou Wang, and **Yejin Kim**. Applied machine learning in Alzheimer's disease research: omics, imaging, and clinical data. Emerging Topic in Life Science. 2021. [[paper]](https://portlandpress.com/emergtoplifesci/article/doi/10.1042/ETLS20210249/230422/Applied-machine-learning-in-Alzheimer-s-disease)
