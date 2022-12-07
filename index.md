@@ -8,17 +8,23 @@ Assistant Professor
 7000 Fannin, Suite 600  
 Houston, Texas 77030
 
-**Yejin Kim** is an assistant professor in the School of Biomedical Informatics at University of Texas Health Science Center (UTHealth) and a founding faculty of [Center for Secure Artificial Intelligence for Healthcare](https://sbmi.uth.edu/safe/) since 2018. 
+**Yejin Kim** is an assistant professor (tenure track) at the School of Biomedical Informatics at University of Texas Health Science Center (UTHealth) and a founding faculty of [Center for Secure Artificial Intelligence for Healthcare](https://sbmi.uth.edu/safe/) since 2018. 
 Her research interest is on data mining and machine learning for healthcare applications, particularly treatment effect estimation, network representation, and computational phenotyping.
 
 Innovating biomedical research via machine learning requires blending biological/clinical insight into algorithmic thinking. My background in machine learning and in biomedical informatics gives me a unique perspective for discovering, defining, and solving biomedical challenges. Before joining UTHealth, I received my PhD in computer science (from Big Data and Artificial Intelligence Laboratory at Pohang University of Science and Technology). I expanded my research areas to translational drug development and disease subtyping using advanced machine learning. My pioneering computational phenotyping model was funded by the Robert Woods Johnson foundation as principal investigator. My tensor factorization models for drug repurposing significantly contributed to my team obtaining NIA R01 (Co-I) and CPRIT Rising Star awards (Co-I). During the last five years I authored 30+ articles with 400+ citations as a primary author. I have strong publication records from prestigious data science conferences (such as KDD, CIKM, and IJCAI) and high-impact translational journals (such as Scientific Reports, JBI, JAMIA, PLoS one); the PLoS one publication was selected as the top 10% most cited article in 2016. My publication covers diverse scientific inquiry (from drug development to medication regimen), data modality (from transcriptome to free text), and methodology (from causal inference to deep learning) to address critical biomedical challenges. I am mentoring 8 pre- and postdoctoral trainees from various backgrounds such as mathematics, computer science, biostatistics, pharmaceutics, and pharmacology. For professional service, I am the organizer of the SBMI Machine Learning Datathon series in Texas Medical Center since 2019. I have served as a program committee of prestigious data science and/or medical informatics conferences such as AAAI, IJCAI, KDD Applied Data Science, WWW, AMIA, IEEE-BCB, IEEE-BIBM. 
 
 
 ## Research Interests
-- Heterogeneous treatment effect analysis
+Novel model development
+- Heterogeneous treatment effect estimation
 - Computational phenotyping with longitudinal data
 - Sequential decision making models
 - Knowledge graph representation
+
+Application area
+- Alzheimer's disease
+- Stroke
+- Drug repurposing
 
 ## News
 - November 2022, Honored to serve as a grant review panel for AI in Healthcare from Fonds de recherche du Québec, Ministry of Innovation, Science & Technology - State of Israel, Bilateral Research Cooperation Program MOST-FRQS
@@ -91,6 +97,3 @@ Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedi
 - "DiagTree: Diagnostic Tree for Differential Diagnosis", International Conference on Information and Management, Nov 12 2017, Singapore
 - "Federated Tensor Factorization for Computational Phenotyping (poster)". The 23rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Aug 14, 2017, Halifax, Nova Scotia, Canada 
 - "Discovery of prostate specific antigen pattern to predict castration resistant prostate cancer of androgen deprivation therapy", ACM Ninth International Workshop on Data and Text Mining in Biomedical Informatics in conjunction  with CIKM, Oct 23, 2015, Melbourne, Australia 
-
-## Media Coverage
-Alzheimer's disease and Flu shot. [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html)
