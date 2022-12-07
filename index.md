@@ -21,11 +21,17 @@ Innovating biomedical research via machine learning requires blending biological
 - Knowledge graph representation
 
 ## News
-- November 2022, I give a talk at AI in Health Conference, organized by Rice Ken Kenedy Institute. Thanks for the invitation Dr. Akane Sano.
+- November 2022, Honored to serve as a grant review panel for AI in Healthcare from Fonds de recherche du Québec, Ministry of Innovation, Science & Technology - State of Israel, Bilateral Research Cooperation Program MOST-FRQS
+- November 2022, I give a talk at [AI in Health Conference](https://www.aihealthconference.com), organized by Rice Ken Kenedy Institute. Thanks for the invitation Dr. Akane Sano.
 - September 2022, Our team's vaccine and Alzheimer's study was invited to testify before U.S. Department of Health & Human Services
-- Top 10% most cited PLoS One article in 2016 [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159788)
-- Selected as AAIC 2020 highlighted poster
-- Our team's vaccine and Alzheimer's study was covered in major news media [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html), and [ScienceDaily](https://www.sciencedaily.com/releases/2022/06/220624123814.htm). 
+- January 2021, Top 10% most cited PLoS One article in 2016 [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159788)
+- July 2020 Selected as AAIC 2020 highlighted poster
+- July 2020, Our team's vaccine and Alzheimer's study was covered in major news media [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html), and [ScienceDaily](https://www.sciencedaily.com/releases/2022/06/220624123814.htm). 
+- April 2020, Our team ranked 2nd place in the International [DREAM Challenge for Drug Repurposing Competition](https://www.synapse.org/#!Synapse:syn20940518/wiki/596265)
+- Janurary 2020, Honored to serve as a grant review panel for [Luxembourg National Science Foundation](https://www.fnr.lu/international-cooperation/nsf/).
+- November 2020, I give a talk at [AI in Health Conference](https://www.aihealthconference.com), organized by Rice Ken Kenedy Institute.
+- September 2019, Thrilled to initiate the [SBMI Datathon Series](https://sbmi.uth.edu/datathon/) as an organizer
+- September 2019, Awarded Robert Woods Johnson Foundation Health Data 4 Action grant as PI
 
 ## Service
 - Reviewer, JAMA Open Network, Cell Reports, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information System, Briefing in Bioinformatics
