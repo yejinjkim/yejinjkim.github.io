@@ -21,9 +21,11 @@ Innovating biomedical research via machine learning requires blending biological
 - Knowledge graph representation
 
 ## News
+- November 2022, I give a talk at AI in Health Conference, organized by Rice Ken Kenedy Institute. Thanks for the invitation Dr. Akane Sano.
+- September 2022, Our team's vaccine and Alzheimer's study was invited to testify before U.S. Department of Health & Human Services
 - Top 10% most cited PLoS One article in 2016 [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159788)
 - Selected as AAIC 2020 highlighted poster
-- Vaccine and Alzheimer studies was covered in major news media [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html), and [ScienceDaily](https://www.sciencedaily.com/releases/2022/06/220624123814.htm)  
+- Our team's vaccine and Alzheimer's study was covered in major news media [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html), and [ScienceDaily](https://www.sciencedaily.com/releases/2022/06/220624123814.htm). 
 
 ## Service
 - Reviewer, JAMA Open Network, Cell Reports, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information System, Briefing in Bioinformatics
