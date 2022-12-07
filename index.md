@@ -7,11 +7,12 @@ Assistant Professor
 [University of Texas Health Science Center at Houston](https://www.uth.edu/)  
 7000 Fannin, Suite 600  
 Houston, Texas 77030
+Yejin.Kim@uth.tmc.edu
 
 **Yejin Kim** is an assistant professor (tenure track) at the School of Biomedical Informatics at University of Texas Health Science Center (UTHealth) and a founding faculty of [Center for Secure Artificial Intelligence for Healthcare](https://sbmi.uth.edu/safe/) since 2018. 
 Her research interest is on data mining and machine learning for healthcare applications, particularly treatment effect estimation, network representation, and computational phenotyping.
 
-I am looking for motivated Ph.D students and postdocs. Send me an email with your CV! 
+**I am looking for motivated Ph.D students and postdocs. Send me an email with your CV!**
 
 
 ## Research Interests
