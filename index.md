@@ -16,11 +16,11 @@ Her research interest is on data mining and machine learning for healthcare appl
 
 
 ## Research Interests
-Novel model development
+Novel machine learning model development
 - Heterogeneous treatment effect estimation
 - Computational phenotyping with longitudinal data
 - Sequential decision making models
-- Knowledge graph representation
+- Knowledge graph representation learning
 
 Application area
 - Alzheimer's disease
@@ -41,7 +41,7 @@ Application area
 - September 2019, Awarded Robert Woods Johnson Foundation Health Data 4 Action grant as PI
 
 ## Service
-- Reviewer, JAMA Open Network, Cell Reports, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information System, Briefing in Bioinformatics
+- Reviewer, JAMA Open Network, Cell Reports, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information System, Briefing in Bioinformatics, Transaction in Intelligent Systems and Technology
 - Program Committee Member, [AAAI AI for Social Impact](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/), [IJCAI, 2018-](https://ijcai-21.org/), [AAAI, 2018-](https://aaai.org/Conferences/AAAI-21/), [BIBM IEEE International Conference on Bioinformatics & Biomedicine](https://ieeebibm.org/BIBM2020/),[AMIA Knowledge Discovery and Data Mining Working Group](https://www.amia.org/programs/working-groups/knowledge-discovery-and-data-mining),[IEEE International Conference on Healthcare Informatics, 2020-](http://ichi2020.de/),[WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php), [KDD Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/),[IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html),[World Wide Web Conference, 2018](https://www2018.thewebconf.org/), [AMIA Annual Symposium, 2017-](https://www.amia.org/amia2017/spc), [AMIA Informatics Summit, 2019-](https://amia.org/education-events/amia-2022-informatics-summit), [ACM-BCB Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
 - Co-organizer, [SBMI Machine Learning Hackathon 2019-](https://sbmi.uth.edu/hackathon/)
 
