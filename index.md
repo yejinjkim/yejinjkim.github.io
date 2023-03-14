@@ -9,8 +9,7 @@ Assistant Professor
 Houston, Texas 77030
 Yejin.Kim@uth.tmc.edu
 
-**Yejin Kim** is an assistant professor (tenure track) at the School of Biomedical Informatics at University of Texas Health Science Center (UTHealth) and a founding faculty of [Center for Secure Artificial Intelligence for Healthcare](https://sbmi.uth.edu/safe/) since 2018. 
-Her research interest is on data mining and machine learning for healthcare applications, particularly treatment effect estimation, network representation, and computational phenotyping.
+**Yejin Kim** is an Assistant Professor in the School of Biomedical Informatics at the University of Texas Health Science Center at Houston. She received her Ph.D. in Computer Science from POSTECH, South Korea, where she focused on machine learning for healthcare. Her current research interests include counterfactual machine learning and human-centered machine learning for healthcare. She has also been recognized for her outstanding contributions to research and received several awards including HD4A award from Robert Woods Johnson Foundation and being selected as the top 10% most cited PLoS One paper in 2016. Her work has been covered in public media outlets such as CNN, NPR, and ScienceDaily. She has served on various grant review panels and committees, including the UK Research and Innovation, Luxembourg National Science Foundation.
 
 **I am looking for motivated Ph.D students and postdocs. Send me an email with your CV!**
 
@@ -28,6 +27,8 @@ Application area
 - Drug repurposing
 
 ## News
+- March 2023, I give a talk at BERD Core at UT Health McGovern Medical School, Data Science Core at SBMI
+- March 2023, Honored to serve as a grant review panel for United Kingdom Research and Innovation
 - November 2022, Honored to serve as a grant review panel for AI in Healthcare from Fonds de recherche du Québec, Ministry of Innovation, Science & Technology - State of Israel, Bilateral Research Cooperation Program MOST-FRQS
 - November 2022, I give a talk at [AI in Health Conference](https://www.aihealthconference.com), organized by Rice Ken Kenedy Institute. Thanks for the invitation Dr. Akane Sano.
 - September 2022, Our team's vaccine and Alzheimer's study was invited to testify before U.S. Department of Health & Human Services
