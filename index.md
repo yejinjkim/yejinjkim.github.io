@@ -27,7 +27,8 @@ Application area
 - Drug repurposing
 
 ## News
-- March 2023, I give a talk at BERD Core at UT Health McGovern Medical School, Data Science Core at SBMI
+- May 2023, I give an invited talk at [the Web Conference 2023 Health Day](https://www2023.thewebconf.org) 
+- March 2023, I give an invited talk at BERD Core at UT Health McGovern Medical School, Data Science Core at SBMI
 - March 2023, Honored to serve as a grant review panel for United Kingdom Research and Innovation
 - November 2022, Honored to serve as a grant review panel for AI in Healthcare from Fonds de recherche du Québec, Ministry of Innovation, Science & Technology - State of Israel, Bilateral Research Cooperation Program MOST-FRQS
 - November 2022, I give a talk at [AI in Health Conference](https://www.aihealthconference.com), organized by Rice Ken Kenedy Institute. Thanks for the invitation Dr. Akane Sano.
