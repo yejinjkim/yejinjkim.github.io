@@ -9,7 +9,7 @@ Assistant Professor
 Houston, Texas 77030
 Yejin.Kim@uth.tmc.edu
 
-**Yejin Kim** is an Assistant Professor in the School of Biomedical Informatics at the University of Texas Health Science Center at Houston. She received her Ph.D. in Computer Science from POSTECH, South Korea, where she focused on machine learning for healthcare. Her current research interests include counterfactual machine learning and human-centered machine learning for healthcare. She has also been recognized for her outstanding contributions to research and received several awards including HD4A award from Robert Woods Johnson Foundation and being selected as the top 10% most cited PLoS One paper in 2016. Her work has been covered in public media outlets such as CNN, NPR, and ScienceDaily. She has served on various grant review panels and committees, including the UK Research and Innovation, Luxembourg National Science Foundation.
+**Yejin Kim** is an Assistant Professor in the School of Biomedical Informatics at the University of Texas Health Science Center at Houston. She received her Ph.D. in Computer Science from POSTECH, South Korea, where she focused on machine learning for healthcare. Her current research interests include counterfactual machine learning and human-centered machine learning for healthcare. She has also been recognized for her outstanding contributions to research and received several awards from NIH R01, Robert Woods Johnson Foundation (HD4A award) and being selected as the top 10% most cited PLoS One paper. Her work has been covered in public media outlets such as CNN, NPR, and ScienceDaily. She has served on various grant review panels and committees, including the National Institute of Health, UK Research and Innovation, Luxembourg National Science Foundation.
 
 **I am looking for motivated Ph.D students and postdocs. Send me an email with your CV!**
 
@@ -27,6 +27,7 @@ Application area
 - Drug repurposing
 
 ## News
+- August 2023, Our work, [CancerGPT](https://arxiv.org/abs/2304.10946) was invited to talk at [PathAI](https://www.pathai.com).
 - May 2023, I give an invited talk at [the Web Conference 2023 Health Day](https://www2023.thewebconf.org) 
 - March 2023, I give an invited talk at BERD Core at UT Health McGovern Medical School, Data Science Core at SBMI
 - March 2023, Honored to serve as a grant review panel for United Kingdom Research and Innovation
@@ -43,9 +44,11 @@ Application area
 - September 2019, Awarded Robert Woods Johnson Foundation Health Data 4 Action grant as PI
 
 ## Service
+- Grant Review Panel, NIH Clinical Informatics and Data Analytics (US), Research and Innovation (United Kingdom), Fonds de recherche du Québec (Canada), and Luxembourg National Science Foundation (Luxembourg)
 - Reviewer, Nature Communication, JAMA Open Network, Cell Reports, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information System, Briefing in Bioinformatics, Transaction in Intelligent Systems and Technology
 - Program Committee Member, [AAAI AI for Social Impact](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/), [IJCAI, 2018-](https://ijcai-21.org/), [AAAI, 2018-](https://aaai.org/Conferences/AAAI-21/),[ACL Clinical NLP workshop](https://clinical-nlp.github.io/2023/), [BIBM IEEE International Conference on Bioinformatics & Biomedicine](https://ieeebibm.org/BIBM2020/),[AMIA Knowledge Discovery and Data Mining Working Group](https://www.amia.org/programs/working-groups/knowledge-discovery-and-data-mining),[IEEE International Conference on Healthcare Informatics, 2020-](http://ichi2020.de/),[WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php), [KDD Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/),[IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html),[World Wide Web Conference, 2018](https://www2018.thewebconf.org/), [AMIA Annual Symposium, 2017-](https://www.amia.org/amia2017/spc), [AMIA Informatics Summit, 2019-](https://amia.org/education-events/amia-2022-informatics-summit), [ACM-BCB Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
-- Co-organizer, [SBMI Machine Learning Hackathon 2019-](https://sbmi.uth.edu/hackathon/) 
+- Co-organizer, [SBMI Machine Learning Hackathon 2019-](https://sbmi.uth.edu/hackathon/)
+
 
 
 
