@@ -9,7 +9,7 @@ Assistant Professor
 Houston, Texas 77030
 Yejin.Kim@uth.tmc.edu
 
-**Yejin Kim** is an Assistant Professor in the School of Biomedical Informatics at the University of Texas Health Science Center at Houston. She received her Ph.D. in Computer Science from POSTECH, South Korea, where she focused on machine learning for healthcare. Her current research interests include counterfactual machine learning and human-centered machine learning for healthcare. She has also been recognized for her outstanding contributions to research and received several awards from NIH R01, Robert Woods Johnson Foundation (HD4A award) and being selected as the top 10% most cited PLoS One paper. Her work has been covered in public media outlets such as CNN, NPR, and ScienceDaily. She has served on various grant review panels and committees, including the National Institute of Health, UK Research and Innovation, Luxembourg National Science Foundation.
+**Yejin Kim** is an Assistant Professor in the School of Biomedical Informatics at the University of Texas Health Science Center at Houston. She received her Ph.D. in Computer Science from POSTECH, South Korea, where she focused on applied machine learning for healthcare. Her current research interests include counterfactual machine learning and human-centered machine learning for healthcare. She has also been recognized for her outstanding contributions to research and received several awards from NIH R01, Robert Woods Johnson Foundation (HD4A award) and being selected as the top 10% most cited PLoS One paper. Her work has been covered in public media outlets such as CNN, NPR, and ScienceDaily. She has served on various grant review panels and committees, including the National Institute of Health, UK Research and Innovation, Luxembourg National Science Foundation.
 
 **I am looking for motivated Ph.D students and postdocs. Send me an email with your CV!**
 
@@ -54,7 +54,7 @@ Application area
 
 
 ## Selected publications
-Full publication list is available at [google scholar](https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ)
+Full recent publication list is available at [google scholar](https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ)
 - Yan Ding, Xiaoqian Jiang, and **Yejin Kim**, Relational graph convolutional networks for predicting blood-brain barrier penetration of drug molecules, Bioinformatics. 2022 [[paper]](https://academic.oup.com/bioinformatics/article-abstract/38/10/2826/6564684?redirectedFrom=fulltext)
 -  Bukhbinder, Avram S., Ling, Yaobin, Hasan, Omar,  Jiang, Xiaoqian, Kim, Yejin, Phelps, Kamal N., Schmandt, Rosemarie E., Amran, Albert, Coburn, Ryan, Ramesh, Srivathsan, Xiao, Qian, Schulz, Paul E, Risk of Alzheimer’s Disease Following Influenza Vaccination: A Claims-Based Cohort Study Using Propensity Score Matching. Journal of Alzheimer's Disease, 1 Jan. 2022 : 1 – 14. [[paper]](https://content.iospress.com/articles/journal-of-alzheimers-disease/jad220361)
 - **Yejin Kim**, Kai Zhang, Sean I. Savitz, Luyao Chen, Paul E. Schulz, and Xiaoqian Jiang. Counterfactual analysis of differential comorbidity risk factors in Alzheimer’s disease and related dementias. PLoS Digital Health. 2022 [[paper]](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000018)
