@@ -27,6 +27,7 @@ Application area
 - Drug repurposing
 
 ## News
+- Januaray 2024, I give a talk at Artificial Intelligence in Biomedicine and Healthcare: A Collaborative Workshop Presented by McWilliams School of Biomedical Informatics at UTHealth Houston.
 - August 2023, Our work, [CancerGPT](https://arxiv.org/abs/2304.10946) was invited to talk at [PathAI](https://www.pathai.com).
 - May 2023, I give an invited talk at [the Web Conference 2023 Health Day](https://www2023.thewebconf.org) 
 - March 2023, I give an invited talk at BERD Core at UT Health McGovern Medical School, Data Science Core at SBMI
@@ -44,7 +45,7 @@ Application area
 - September 2019, Awarded Robert Woods Johnson Foundation Health Data 4 Action grant as PI
 
 ## Service
-- Grant Review Panel: NIH Clinical Informatics and Data Analytics Special Emphasis Panel (US), Research and Innovation (United Kingdom), Fonds de recherche du Québec (Canada), and Luxembourg National Science Foundation (Luxembourg)
+- Grant Review Panel: NIH Clinical Informatics and Data Analytics Special Emphasis Panel (US), NIH Health Service and System Research study section (US), NIH NINDS COMBINE special panel, and Innovation (United Kingdom), Fonds de recherche du Québec (Canada), and Luxembourg National Science Foundation (Luxembourg)
 - Journal reviewer: Nature Communication, JAMA Open Network, Cell Reports, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information System, Briefing in Bioinformatics, Transaction in Intelligent Systems and Technology
 - Editor: PLoS Biology
 - Program Committee Member: [ACL], [AAAI AI for Social Impact](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/), [IJCAI, 2018-](https://ijcai-21.org/), [AAAI, 2018-](https://aaai.org/Conferences/AAAI-21/),[ACL Clinical NLP workshop](https://clinical-nlp.github.io/2023/), [BIBM IEEE International Conference on Bioinformatics & Biomedicine](https://ieeebibm.org/BIBM2020/),[AMIA Knowledge Discovery and Data Mining Working Group](https://www.amia.org/programs/working-groups/knowledge-discovery-and-data-mining),[IEEE International Conference on Healthcare Informatics, 2020-](http://ichi2020.de/),[WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php), [KDD Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/),[IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html),[World Wide Web Conference, 2018](https://www2018.thewebconf.org/), [AMIA Annual Symposium, 2017-](https://www.amia.org/amia2017/spc), [AMIA Informatics Summit, 2019-](https://amia.org/education-events/amia-2022-informatics-summit), [ACM-BCB Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
