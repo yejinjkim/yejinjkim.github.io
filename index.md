@@ -27,7 +27,7 @@ Application area
 - Drug repurposing
 
 ## News
-- Januaray 2024, I give a talk at Artificial Intelligence in Biomedicine and Healthcare: A Collaborative Workshop Presented by McWilliams School of Biomedical Informatics at UTHealth Houston.
+- Januaray 2024, I give a talk "AI/ML to Identify Personalized Treatment Effect from Data" at Artificial Intelligence in Biomedicine and Healthcare: A Collaborative Workshop Presented by McWilliams School of Biomedical Informatics at UTHealth Housto
 - August 2023, Our work, [CancerGPT](https://arxiv.org/abs/2304.10946) was invited to talk at [PathAI](https://www.pathai.com).
 - May 2023, I give an invited talk at [the Web Conference 2023 Health Day](https://www2023.thewebconf.org) 
 - March 2023, I give an invited talk at BERD Core at UT Health McGovern Medical School, Data Science Core at SBMI
