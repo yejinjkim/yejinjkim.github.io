@@ -18,7 +18,6 @@ Yejin.Kim@uth.tmc.edu
 Novel machine learning model development
 - Heterogeneous treatment effect estimation
 - Computational phenotyping with longitudinal data
-- Sequential decision making models
 - Knowledge graph representation learning
 
 Application area
@@ -28,6 +27,7 @@ Application area
 
 ## News
 - Januaray 2024, I give a talk "AI/ML to Identify Personalized Treatment Effect from Data" at Artificial Intelligence in Biomedicine and Healthcare: A Collaborative Workshop Presented by McWilliams School of Biomedical Informatics at UTHealth Housto
+- November 2023, I was awarded NIH Research Project Grant R01 as a PI ($4M for five years). The project is about developing federated learning method for multiple cliical data
 - August 2023, Our work, [CancerGPT](https://arxiv.org/abs/2304.10946) was invited to talk at [PathAI](https://www.pathai.com).
 - May 2023, I give an invited talk at [the Web Conference 2023 Health Day](https://www2023.thewebconf.org) 
 - March 2023, I give an invited talk at BERD Core at UT Health McGovern Medical School, Data Science Core at SBMI
@@ -57,29 +57,6 @@ Application area
 
 ## Selected publications
 Full recent publication list is available at [google scholar](https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ)
-- Yan Ding, Xiaoqian Jiang, and **Yejin Kim**, Relational graph convolutional networks for predicting blood-brain barrier penetration of drug molecules, Bioinformatics. 2022 [[paper]](https://academic.oup.com/bioinformatics/article-abstract/38/10/2826/6564684?redirectedFrom=fulltext)
--  Bukhbinder, Avram S., Ling, Yaobin, Hasan, Omar,  Jiang, Xiaoqian, Kim, Yejin, Phelps, Kamal N., Schmandt, Rosemarie E., Amran, Albert, Coburn, Ryan, Ramesh, Srivathsan, Xiao, Qian, Schulz, Paul E, Risk of Alzheimer’s Disease Following Influenza Vaccination: A Claims-Based Cohort Study Using Propensity Score Matching. Journal of Alzheimer's Disease, 1 Jan. 2022 : 1 – 14. [[paper]](https://content.iospress.com/articles/journal-of-alzheimers-disease/jad220361)
-- **Yejin Kim**, Kai Zhang, Sean I. Savitz, Luyao Chen, Paul E. Schulz, and Xiaoqian Jiang. Counterfactual analysis of differential comorbidity risk factors in Alzheimer’s disease and related dementias. PLoS Digital Health. 2022 [[paper]](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000018)
-- Kang-Lin Hsieh, Yinyin Wang, Luyao Chen, Zhongming Zhao, Sean Savitz, Xiaoqian Jiang, Jing Tang, and **Yejin Kim**. Drug Repurposing for COVID-19 using Graph Neural Network and Harmonizing Multiple Evidence. Nature Scientific Reports. 2021. [[paper]](https://www.nature.com/articles/s41598-021-02353-5)
-- Ziyi Li, Xiaoqian Jiang, Yizhou Wang, and **Yejin Kim**. Applied machine learning in Alzheimer's disease research: omics, imaging, and clinical data. Emerging Topic in Life Science. 2021. [[paper]](https://portlandpress.com/emergtoplifesci/article/doi/10.1042/ETLS20210249/230422/Applied-machine-learning-in-Alzheimer-s-disease)
-- **Yejin Kim**, Jessika Suescun, Mya Schiess, and Xiaoqian Jiang. Computational medication regimen for Parkinson’s disease using reinforcement learning. Nature Scientific Reports. 2021. [[paper]](https://www.nature.com/articles/s41598-021-88619-4)
-- **Yejin Kim**, Xiaoqian Jiang, Samden D Lhatoo, Guo-Qiang Zhang, Shiqiang Tao, Licong Cui, Xiaojin Li, Robert D Jolly 3rd, Luyao Chen, Michael Phan, Cung Ha, Marijane Detranaltes, and Jiajie Zhang. A community effort for automatic detection of postictal generalized EEG suppressioin in epilepsy. BMC Medical Informatics and Decision Making. 2020. [[paper]](https://pubmed.ncbi.nlm.nih.gov/33357232/)
--  **Yejin Kim**, Shuyu Zheng, Jing Tang, W. Jim Zheng, Zhao Li, and Xiaoqian Jiang. Anticancer drug synergy prediction in understudied tissues using transfer learning. Journal of American Medical Informatics. 2020. [[paper]](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaa212/5920819?guestAccessKey=80994b81-7a9b-4ce5-a64c-5cb55a3ecc33)
-- **Yejin Kim**, Samden D Lhatoo, GQ Zhang, Luyao Chen, and Xiaoqian Jiang. Temporal Phenotyping for Transitional Disease
-Progress: an Application to Epilepsy and Alzheimer's Disease. Journal of Biomedical Informatics. 2020 [[paper]](https://pubmed.ncbi.nlm.nih.gov/32562896/)
-- **Yejin Kim**, Xiaoqian Jiang, Luca Giancardo, Danilo Pena, Avram S. Bukhbinder, Albert Y. Amran, and Paul E. Schulz. Multimodal Phenotyping of Alzheimer’s Disease with Longitudinal Magnetic Resonance Imaging and Cognitive Function Data. Scientific Reports, 2020 [[paper]](https://www.nature.com/articles/s41598-020-62263-w)
-- **Yejin Kim**, Xiaoqian Jiang, Luyao Chen, Xiaojin Li, and Licong Cui. Discriminative Sleep Patterns of Alzheimer's Disease via Tensor Factorization. AMIA Annual Symposium. 2019. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153114/)
-- **Yejin Kim**, Kwangseob Kim, Chanyoung Park, and Hwanjo Yu. Sequential and Diverse Recommendation with Long Tail. IJCAI 2019. [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/IJCAI19%20camera-ready.pdf) [[slides]](https://www.slideshare.net/YejinKim47/sequential-and-diverse-recommendation-with-long-tail)
-- **Yejin Kim**, Luca Giancardo, Danilo Pena, and Xiaoqian Jiang. Finding Discriminative Subgroups of Brain Regions using Tensor Factorization. ACM KDD workshop on Applied Data Science for Healthcare. 2019. [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/DSHealth%20(1).pdf)
-- Jingyun Choi, **Yejin Kim**, HS Kim, In Young Choi, and Hwanjo Yu, Phenotyping of Korean patients with better-than-expected efficacy of moderate-intensity statins using tensor factorization, PLoS One. 2018. [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197518)
-- **Yejin Kim**, Jimeng Sun, Hwanjo Yu, and Xiaoqian Jiang. Federated Tensor Factorization for Computational Phenotyping. KDD 17 [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/kdd17%20federated%20tensor%20factorization.pdf) [[slides]](https://www.slideshare.net/YejinKim47/federated-tensor-factorization-for-computational-phenotyping) [[video]](https://www.youtube.com/watch?v=XmUPnomNzk8)
-- **Yejin Kim**, Jingyun Choi , Yosep Chong, Xiaoqian Jiang, and Hwanjo Yu. DiagTree: Diagnostic Tree for Differential Diagnosis. CIKM 17 [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/cikm17%20DiagTree.pdf) [[slides]](https://www.slideshare.net/YejinKim47/diagtree-diagnostic-tree-for-differential-diagnosis-cikm17-94403189)
-- **Yejin Kim**, Robert El-Kareh, Jimeng Sun, Hwanjo Yu, and Xiaoqian Jiang. Discriminative and distinct phenotype by constrained tensor factorization. Scientific Reports 2017. [[paper]](https://www.nature.com/articles/s41598-017-01139-y) [[slides]](https://www.slideshare.net/YejinKim47/computational-phenotyping-using-tensor-factorization)
--  Jingyun Choi, Mi Jung Rho, **Yejin Kim**, In Hye Yook, Hwanjo Yu, Dai-Jin Kim, and In Young Choi, Smartphone Over-dependence Classification using Tensor Factorization. PLoS One 2017. [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177629)
-- Jingyun Choi, **Yejin Kim**, HS Kim, In Young Choi, and Hwanjo Yu, Tensor-Factorization-Based Phenotyping using Group Information: Case Study on the Efficacy of Statins. ACM BCB 17 [[paper]](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/papers/bcb17%20statin.pdf)
-- **Yejin Kim**, YongHyun Park, JY Lee, In Young Choi, and Hwanjo Yu. Discovery of prostate specic antigen pattern to predict castration resistant prostate cancer of androgen deprivation therapy. BMC Decision Making and Medical Informatics 2016 [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959354/) [[slides]](https://www.slideshare.net/YejinKim47/psa-pattern-to-predict-crpc)
-- YongHyun Park, **Yejin Kim**, Hwanjo Yu, In Young Choi, Byun SS, Kwak C, Chung BH, Lee HM, Kim CS, and Lee JY. Is lymphovascular invasion a powerful predictor for biochemical recurrence in pT3 N0 prostate cancer? Results from the K-CaP database. Scientific reports. 2016 [[paper]](https://www.nature.com/articles/srep25419)
-- **Yejin Kim**, JE Jeong, H Cho , DJ Jung, M Kwak, MJ Rho, Hwanjo Yu, Dai-Jin Kim, In Young Choi. Personality factors predicting smartphone addiction predisposition: behavioral inhibition and activation systems, impulsivity, and self-control. PLoS One. 2016 [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159788)
 
 
 
