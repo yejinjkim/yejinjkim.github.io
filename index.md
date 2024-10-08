@@ -16,15 +16,16 @@ Yejin.Kim@uth.tmc.edu
 
 ## Research Interests
 Novel machine learning model development
-- Heterogeneous treatment effect estimation
+- Protein generative model
+- Knowledge engineering using large language model 
 - Computational phenotyping with longitudinal data
-- Knowledge graph representation learning
 
 Application area
+- Therapy development
+- Emulating clinical trials
 - Alzheimer's disease
-- Stroke
-- Drug repurposing
 
+  
 ## News
 - October 2024, I was awarded NIH Research Project Grant R01 as a PI ($3.9M for five years) for data-driven disease subtyping for Alzheimer's disease.
 - October 2024, I give a talk "AI for Computational Phenotyping and Predicting Accelerated Aging" at UTHealth Houston Neuroscience Research Center and Aging Research Symposium.
