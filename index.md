@@ -26,8 +26,10 @@ Application area
 - Drug repurposing
 
 ## News
+- October 2024, I was awarded NIH Research Project Grant R01 as a PI ($3.9M for five years) for data-driven disease subtyping for Alzheimer's disease.
+- October 2024, I give a talk "AI for Computational Phenotyping and Predicting Accelerated Aging" at UTHealth Houston Neuroscience Research Center and Aging Research Symposium.
 - Januaray 2024, I give a talk "AI/ML to Identify Personalized Treatment Effect from Data" at Artificial Intelligence in Biomedicine and Healthcare: A Collaborative Workshop Presented by McWilliams School of Biomedical Informatics at UTHealth Housto
-- November 2023, I was awarded NIH Research Project Grant R01 as a PI ($4M for five years). The project is about developing federated learning method for multiple cliical data
+- November 2023, I was awarded NIH Research Project Grant R01 as a PI ($4M for five years). The project is about developing federated learning method for multiple clinical data
 - August 2023, Our work, [CancerGPT](https://arxiv.org/abs/2304.10946) was invited to talk at [PathAI](https://www.pathai.com).
 - May 2023, I give an invited talk at [the Web Conference 2023 Health Day](https://www2023.thewebconf.org) 
 - March 2023, I give an invited talk at BERD Core at UT Health McGovern Medical School, Data Science Core at SBMI
@@ -48,15 +50,15 @@ Application area
 - Grant Review Panel: NIH Clinical Informatics and Data Analytics Special Emphasis Panel (US), NIH Health Service and System Research study section (US), NIH NINDS COMBINE special panel, and Innovation (United Kingdom), Fonds de recherche du Québec (Canada), and Luxembourg National Science Foundation (Luxembourg)
 - Journal reviewer: Nature Communication, JAMA Open Network, Cell Reports, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information System, Briefing in Bioinformatics, Transaction in Intelligent Systems and Technology, IEEE/ACM Transaction on Computational Biology and Bioinformatics
 - Editor: PLoS Biology
-- Program Committee Member: [ACL 2024](https://2024.aclweb.org), [AAAI AI for Social Impact](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/), [IJCAI, 2018-](https://ijcai-21.org/), [AAAI, 2018-](https://aaai.org/Conferences/AAAI-21/),[ACL Clinical NLP workshop](https://clinical-nlp.github.io/2023/), [BIBM IEEE International Conference on Bioinformatics & Biomedicine](https://ieeebibm.org/BIBM2020/),[AMIA Knowledge Discovery and Data Mining Working Group](https://www.amia.org/programs/working-groups/knowledge-discovery-and-data-mining),[IEEE International Conference on Healthcare Informatics, 2020-](http://ichi2020.de/),[WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php), [KDD Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/),[IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html),[World Wide Web Conference, 2018](https://www2018.thewebconf.org/), [AMIA Annual Symposium, 2017-](https://www.amia.org/amia2017/spc), [AMIA Informatics Summit, 2019-](https://amia.org/education-events/amia-2022-informatics-summit), [ACM-BCB Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
-- Co-organizer, [SBMI Machine Learning Hackathon 2019-](https://sbmi.uth.edu/hackathon/)
+- Program Committee Member: [ICLR 2025-](https://iclr.cc/) [ACL 2024-](https://2024.aclweb.org), [AAAI AI for Social Impact 2020- ](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/), [IJCAI, 2018-](https://ijcai-21.org/), [AAAI, 2018-](https://aaai.org/Conferences/AAAI-21/),[ACL Clinical NLP workshop](https://clinical-nlp.github.io/2023/), [BIBM IEEE International Conference on Bioinformatics & Biomedicine](https://ieeebibm.org/BIBM2020/),[AMIA Knowledge Discovery and Data Mining Working Group](https://www.amia.org/programs/working-groups/knowledge-discovery-and-data-mining),[IEEE International Conference on Healthcare Informatics, 2020-](http://ichi2020.de/),[WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php), [KDD Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/),[IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html),[World Wide Web Conference, 2018](https://www2018.thewebconf.org/), [AMIA Annual Symposium, 2017-](https://www.amia.org/amia2017/spc), [AMIA Informatics Summit, 2019-](https://amia.org/education-events/amia-2022-informatics-summit), [ACM-BCB Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
+- Co-organizer, [SBMI Machine Learning Hackathon 2019-](https://sbmi.uth.edu/hackathon/), [ICIBM 2024](https://icibm2024.iaibm.org/)
 
 - Committee member, Women in AMIA
 
 
 
 ## Selected publications
-Full recent publication list is available at [google scholar](https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ)
+The full recent publication list is available at [google scholar](https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ)
 
 
 
