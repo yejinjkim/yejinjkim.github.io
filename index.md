@@ -2,14 +2,16 @@
 
 Yejin Jaylynn Kim
 ==========
-Assistant Professor  
-[School of Biomedical Informatics](https://sbmi.uth.edu/)  
+Assistant Professor
+Associate Director of the Center for Secure Artificial Intelligence for Healthcare
+Department of Health Data Science and Artificial Intelligence
+[McWilliams School of Biomedical Informatics](https://sbmi.uth.edu/)  
 [University of Texas Health Science Center at Houston](https://www.uth.edu/)  
 7000 Fannin, Suite 600  
 Houston, Texas 77030
 Yejin.Kim@uth.tmc.edu
 
-**Dr. Yejin Kim** is an Assistant Professor in the Department of Health Data Science and Artificial Intelligence at the School of Biomedical Informatics at the University of Texas Health Science Center at Houston, recognized for her pioneering work in applied machine learning for healthcare. She earned her Ph.D. in Computer Science from POSTECH, South Korea, where she developed novel computational methods to address critical healthcare challenges. Dr. Kim's research is centered on human-centered machine learning to enhance personalized treatment in healthcare. She has secured multiple NIH R01 grants, including projects focused on Alzheimer's disease progression and precision medicine. Dr. Kim's work has garnered international attention, with media coverage from CNN, NPR, and ScienceDaily, and she continues to serve on high-profile review panels and committees for organizations such as NIH and UK Research and Innovation.
+**Dr. Yejin Kim** is an Assistant Professor in the Department of Health Data Science and Artificial Intelligence at the School of Biomedical Informatics at the University of Texas Health Science Center at Houston, recognized for her pioneering work in applied machine learning for healthcare. She earned her Ph.D. in Computer Science from POSTECH, South Korea, where she developed novel computational methods to address critical healthcare challenges. Dr. Kim's research is centered on human-centered machine learning to enhance personalized treatment in healthcare. She has secured multiple NIH R01 grants (~$8M), including projects focused on Alzheimer's disease progression and precision medicine. Dr. Kim's work has garnered international attention, with media coverage from CNN, NPR, and ScienceDaily, and she continues to serve on high-profile review panels and committees for organizations such as NIH and UK Research and Innovation.
 
 **I am looking for motivated Ph.D students and postdocs. Send me an email with your CV!**
 ## CV
