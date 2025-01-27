@@ -3,10 +3,15 @@
 Yejin Jaylynn Kim
 ==========
 Assistant Professor
+
 Associate Director of the Center for Secure Artificial Intelligence for Healthcare
+
 Department of Health Data Science and Artificial Intelligence
+
 [McWilliams School of Biomedical Informatics](https://sbmi.uth.edu/)  
+
 [University of Texas Health Science Center at Houston](https://www.uth.edu/)  
+
 7000 Fannin, Suite 600  
 Houston, Texas 77030
 Yejin.Kim@uth.tmc.edu
