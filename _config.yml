@@ -1,3 +1,25 @@
-theme: 
-title: Home
-description:  
+title: "Dr. Yejin Kim"
+description: "Assistant Professor of Data Science - Personal Academic Website"
+baseurl: ""
+url: "https://yejinjkim.github.io"
+theme: minima # or any other Jekyll theme
+markdown: kramdown
+
+# Optional: if you want a navigation menu
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Professor"
+    url: "/professor"
+  - title: "Team"
+    url: "/team"
+  - title: "Research"
+    url: "/research"
+  - title: "Lectures"
+    url: "/lectures"
+  - title: "Funding"
+    url: "/funding"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
