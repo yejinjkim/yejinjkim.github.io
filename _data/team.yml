@@ -1,0 +1,9 @@
+- name: John Doe
+  headshot: /assets/images/team/akshita.jpg
+  position: Professor of Mathematics
+  email: johndoe@example.com
+
+- name: Jane Smith
+  headshot: /assets/images/team/yiching.png
+  position: Associate Professor of Physics
+  email: janesmith@example.com

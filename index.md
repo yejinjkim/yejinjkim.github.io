@@ -5,7 +5,8 @@
 Our group's long-term vision is to bridge the gap between artificial intelligence (AI) and human health. We advance machine learning to address real-world health challenge. Our research focuses on developing human-centered machine learning models that recognize patterns among diseases and develop therapies.
 
 [**We are recruiting highly motivated Ph.D students and Postdoctoral fellow. See details!**](opportunities)
----
+
+
 
 <p align="center">
   <img src="assets/images/antibody.png" alt="antibody" width="200"/>

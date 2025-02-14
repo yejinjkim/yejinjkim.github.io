@@ -4,20 +4,25 @@ title: "Team"
 permalink: "/team"
 ---
 
-## 3.1 Antibody Design Team
+## Antibody Design Team
 
 Meet the researchers working at the intersection of AI and immunology.
+![alt text](assets/images/antibody-group.png)
 
-| Headshot | Name | Role | Contact |
-|----------|------|------|---------|
-| ![Name](/assets/images/team_member1.jpg){: width="100px" } | John Doe, PhD | Postdoctoral Fellow | john.doe@university.edu |
-| ![Name](/assets/images/team_member2.jpg){: width="100px" } | Jane Smith | PhD Student | jane.smith@university.edu |
-
-*(Add more team members as needed.)*
+<div class="team">
+  {% for member in site.data.team %}
+    <div class="team-member">
+      <img src="{{ member.headshot }}" alt="{{ member.name }}">
+      <h3>{{ member.name }}</h3>
+      <p>{{ member.position }}</p>
+      <p><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
+    </div>
+  {% endfor %}
+</div>
 
 ---
 
-## 3.2 LLM for Scientific Discovery Team
+## LLM for Scientific Discovery Team
 
 | Headshot | Name | Role | Contact |
 |----------|------|------|---------|
