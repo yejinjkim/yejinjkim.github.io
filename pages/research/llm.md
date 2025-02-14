@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "llm"
-permalink: "/pages/research/llm"
+permalink: "/research/llm"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Antibody"
-permalink: "/pages/research/antibody"
+permalink: "/research/antibody"
 ---
 
 

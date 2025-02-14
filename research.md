@@ -8,17 +8,17 @@ permalink: "/research"
 
 
 <div class="research-thumbnails">
-  <a href="pages/research/antibody.md" class="research-box">
+  <a href="/research/antibody/" class="research-box">
     <img src="/assets/images/research/antibody.png" alt="Antibody design">
     <h3>AI for antibody design</h3>
   </a>
 
-  <a href="pages/research/llm.md" class="research-box">
+  <a href="/research/llm/" class="research-box">
     <img src="/assets/images/research/llm.png" alt="LLM">
     <h3>LLM for scientific discovery</h3>
   </a>
 
-  <a href="pages/research/clinical.md" class="research-box">
+  <a href="/research/clinical" class="research-box">
     <img src="/assets/images/research/brain.png" alt="brain">
     <h3>Counterfactual inference</h3>
   </a>

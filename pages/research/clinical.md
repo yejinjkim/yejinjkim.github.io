@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "clinical"
-permalink: "/pages/research/clinical"
+permalink: "/research/clinical"
 ---
 
 
