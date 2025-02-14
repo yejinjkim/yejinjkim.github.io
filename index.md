@@ -1,96 +1,46 @@
-<img align="right" width="200" src="https://sbmi.uth.edu/faculty-and-staff/gfx/Yejin-Kim.jpg">
+## To Brige the Gap Between Artificial Intelligence and the Real World Healthcare Challenges
 
-Yejin Jaylynn Kim
-==========
-Assistant Professor
+Our group's long-term vision is to bridge the gap between artificial intelligence (AI) and human health. We advance machine learning to address real-world health challenge. Our research focuses on developing human-centered machine learning models that recognize patterns among diseases and develop therapies.
 
-Associate Director of the Center for Secure Artificial Intelligence for Healthcare
+[**We are recruiting highly motivated Ph.D students and Postdoctoral fellow. See details!**](opportunities)
+---
 
-Department of Health Data Science and Artificial Intelligence
+<p align="center">
+  <img src="assets/images/antibody.png" alt="antibody" width="200"/>
+  <img src="assets/images/llm.png" alt="llm" width="200"/>
+  <img src="assets/images/brain.png" alt="brain" width="200"/>
+</p>
 
-[McWilliams School of Biomedical Informatics](https://sbmi.uth.edu/)  
 
-[University of Texas Health Science Center at Houston](https://www.uth.edu/)  
+## Latest News
 
-7000 Fannin, Suite 600  
-Houston, Texas 77030
-Yejin.Kim@uth.tmc.edu
-
-**Dr. Yejin Kim** is an Assistant Professor in the Department of Health Data Science and Artificial Intelligence at the School of Biomedical Informatics at the University of Texas Health Science Center at Houston, recognized for her pioneering work in applied machine learning for healthcare. She earned her Ph.D. in Computer Science from POSTECH, South Korea, where she developed novel computational methods to address critical healthcare challenges. Dr. Kim's research is centered on human-centered machine learning to enhance personalized treatment in healthcare. She has secured multiple NIH R01 grants (~$8M), including projects focused on Alzheimer's disease progression and precision medicine. Dr. Kim's work has garnered international attention, with media coverage from CNN, NPR, and ScienceDaily, and she continues to serve on high-profile review panels and committees for organizations such as NIH and UK Research and Innovation.
-
-**I am looking for motivated Ph.D students and postdocs. Send me an email with your CV!**
-## CV
-[CV](https://github.com/yejinjkim/yejinjkim.github.io/blob/master/Yejin_Kim_CV_2024.pdf) (November 2024)
-
-## Research Interests
-Novel machine learning model development
-- Protein generative model
-- Knowledge engineering using large language model 
-- Computational phenotyping with longitudinal data
-
-Application area
-- Therapy development
-- Emulating clinical trials
-- Alzheimer's disease
-
+<div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9;">
+  <ul>
+    <li><strong>Dec 2024:</strong> So honored to be featured in UTHealth Insider <a href="https://www.linkedin.com/feed/update/urn:li:activity:7274468512646017024/">news</a>.</li>
+    <li><strong>Oct 2024:</strong> Awarded NIH Research Project Grant R01 as PI ($3.9M for five years) for data-driven disease subtyping for Alzheimer's disease.</li>
+    <li><strong>Oct 2024:</strong> Gave a talk "AI for Computational Phenotyping and Predicting Accelerated Aging" at UTHealth Houston Neuroscience Research Center and Aging Research Symposium.</li>
+    <li><strong>Jan 2024:</strong> Gave a talk "AI/ML to Identify Personalized Treatment Effect from Data" at Artificial Intelligence in Biomedicine and Healthcare Workshop by McWilliams School of Biomedical Informatics, UTHealth Houston.</li>
+    <li><strong>Nov 2023:</strong> Awarded NIH Research Project Grant R01 as PI ($4M for five years) on federated learning for multiple clinical data.</li>
+    <li><strong>Aug 2023:</strong> Our work, <a href="https://arxiv.org/abs/2304.10946">CancerGPT</a>, was invited for a talk at <a href="https://www.pathai.com">PathAI</a>.</li>
+    <li><strong>May 2023:</strong> Gave an invited talk at <a href="https://www2023.thewebconf.org">The Web Conference 2023 Health Day</a>.</li>
+    <li><strong>Mar 2023:</strong> Gave an invited talk at BERD Core, UTHealth McGovern Medical School, and Data Science Core at SBMI.</li>
+    <li><strong>Mar 2023:</strong> Honored to serve as a grant review panelist for United Kingdom Research and Innovation.</li>
+    <li><strong>Nov 2022:</strong> Served as a grant review panelist for AI in Healthcare (Fonds de recherche du Québec & Ministry of Innovation, Science & Technology - Israel).</li>
+    <li><strong>Nov 2022:</strong> Gave a talk at <a href="https://www.aihealthconference.com">AI in Health Conference</a>, organized by Rice Ken Kennedy Institute.</li>
+    <li><strong>Sep 2022:</strong> Our vaccine and Alzheimer's study was invited to testify before the U.S. Department of Health & Human Services.</li>
+    <li><strong>Jan 2021:</strong> Top 10% most cited <i>PLoS One</i> article in 2016 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159788">[paper]</a>.</li>
+    <li><strong>Jul 2020:</strong> Selected as an AAIC 2020 Highlighted Poster.</li>
+    <li><strong>Jul 2020:</strong> Our team's vaccine and Alzheimer's study was covered by <a href="https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows">NPR</a>, <a href="https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html">CNN</a>, and <a href="https://www.sciencedaily.com/releases/2022/06/220624123814.htm">ScienceDaily</a>.</li>
+    <li><strong>Apr 2020:</strong> Ranked 2nd in the International <a href="https://www.synapse.org/#!Synapse:syn20940518/wiki/596265">DREAM Challenge for Drug Repurposing</a>.</li>
+    <li><strong>Jan 2020:</strong> Served as a grant review panelist for <a href="https://www.fnr.lu/international-cooperation/nsf/">Luxembourg National Science Foundation</a>.</li>
+    <li><strong>Nov 2020:</strong> Gave a talk at <a href="https://www.aihealthconference.com">AI in Health Conference</a>, organized by Rice Ken Kennedy Institute.</li>
+    <li><strong>Sep 2019:</strong> Initiated the <a href="https://sbmi.uth.edu/datathon/">SBMI Datathon Series</a> as an organizer.</li>
+    <li><strong>Sep 2019:</strong> Awarded Robert Wood Johnson Foundation Health Data 4 Action grant as PI.</li>
+  </ul>
+</div>
   
-## News
-- December 2024, So honored to be featured in UTHealth Insider [news](https://www.linkedin.com/feed/update/urn:li:activity:7274468512646017024/). 
-- October 2024, I was awarded NIH Research Project Grant R01 as a PI ($3.9M for five years) for data-driven disease subtyping for Alzheimer's disease.
-- October 2024, I give a talk "AI for Computational Phenotyping and Predicting Accelerated Aging" at UTHealth Houston Neuroscience Research Center and Aging Research Symposium.
-- Januaray 2024, I give a talk "AI/ML to Identify Personalized Treatment Effect from Data" at Artificial Intelligence in Biomedicine and Healthcare: A Collaborative Workshop Presented by McWilliams School of Biomedical Informatics at UTHealth Housto
-- November 2023, I was awarded NIH Research Project Grant R01 as a PI ($4M for five years). The project is about developing federated learning method for multiple clinical data
-- August 2023, Our work, [CancerGPT](https://arxiv.org/abs/2304.10946) was invited to talk at [PathAI](https://www.pathai.com).
-- May 2023, I give an invited talk at [the Web Conference 2023 Health Day](https://www2023.thewebconf.org) 
-- March 2023, I give an invited talk at BERD Core at UT Health McGovern Medical School, Data Science Core at SBMI
-- March 2023, Honored to serve as a grant review panel for United Kingdom Research and Innovation
-- November 2022, Honored to serve as a grant review panel for AI in Healthcare from Fonds de recherche du Québec, Ministry of Innovation, Science & Technology - State of Israel, Bilateral Research Cooperation Program MOST-FRQS
-- November 2022, I give a talk at [AI in Health Conference](https://www.aihealthconference.com), organized by Rice Ken Kenedy Institute. Thanks for the invitation Dr. Akane Sano.
-- September 2022, Our team's vaccine and Alzheimer's study was invited to testify before U.S. Department of Health & Human Services
-- January 2021, Top 10% most cited PLoS One article in 2016 [[paper]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159788)
-- July 2020 Selected as AAIC 2020 highlighted poster
-- July 2020, Our team's vaccine and Alzheimer's study was covered in major news media [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html), and [ScienceDaily](https://www.sciencedaily.com/releases/2022/06/220624123814.htm). 
-- April 2020, Our team ranked 2nd place in the International [DREAM Challenge for Drug Repurposing Competition](https://www.synapse.org/#!Synapse:syn20940518/wiki/596265)
-- Janurary 2020, Honored to serve as a grant review panel for [Luxembourg National Science Foundation](https://www.fnr.lu/international-cooperation/nsf/).
-- November 2020, I give a talk at [AI in Health Conference](https://www.aihealthconference.com), organized by Rice Ken Kenedy Institute.
-- September 2019, Thrilled to initiate the [SBMI Datathon Series](https://sbmi.uth.edu/datathon/) as an organizer
-- September 2019, Awarded Robert Woods Johnson Foundation Health Data 4 Action grant as PI
-
-## Service
-- Grant Review Panel: NIH Clinical Informatics and Data Analytics Special Emphasis Panel (US), NIH Health Service and System Research study section (US), NIH NINDS COMBINE special panel, and Innovation (United Kingdom), Fonds de recherche du Québec (Canada), and Luxembourg National Science Foundation (Luxembourg)
-- Journal reviewer: Nature Communication, JAMA Open Network, Cell Reports, Nature Scientific Reports, J. Biomedical Informatics, J. Am. Medical Informatics, Knowledge and Information System, Briefing in Bioinformatics, Transaction in Intelligent Systems and Technology, IEEE/ACM Transaction on Computational Biology and Bioinformatics
-- Editor: PLoS Biology
-- Program Committee Member: [ICLR 2025-](https://iclr.cc/) [ACL 2024-](https://2024.aclweb.org), [AAAI AI for Social Impact 2020- ](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/), [IJCAI, 2018-](https://ijcai-21.org/), [AAAI, 2018-](https://aaai.org/Conferences/AAAI-21/),[ACL Clinical NLP workshop](https://clinical-nlp.github.io/2023/), [BIBM IEEE International Conference on Bioinformatics & Biomedicine](https://ieeebibm.org/BIBM2020/),[AMIA Knowledge Discovery and Data Mining Working Group](https://www.amia.org/programs/working-groups/knowledge-discovery-and-data-mining),[IEEE International Conference on Healthcare Informatics, 2020-](http://ichi2020.de/),[WSDM Health Day](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php), [KDD Applied Data Science for Healthcare](https://dshealthkdd.github.io/dshealth-2019/),[IEEE BIBM International Conference on Bioinformatics and Biomedicine](https://cci.drexel.edu/ieeebibm/bibm2019/index.html),[World Wide Web Conference, 2018](https://www2018.thewebconf.org/), [AMIA Annual Symposium, 2017-](https://www.amia.org/amia2017/spc), [AMIA Informatics Summit, 2019-](https://amia.org/education-events/amia-2022-informatics-summit), [ACM-BCB Conference on Bioinformatics, Computational Biology, and Health Informatics](http://acm-bcb.org/2017/)
-- Co-organizer, [SBMI Machine Learning Hackathon 2019-](https://sbmi.uth.edu/hackathon/), [ICIBM 2024](https://icibm2024.iaibm.org/)
-
-- Committee member, Women in AMIA
 
 
 
-## Selected publications
-The full recent publication list is available at [google scholar](https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ)
 
 
-
-## Selected presentation
-- "Prediction of Individual Treatment Effects of Rehabiliation for Post-stroke Patients", World Stroke Congress, 2021.
-- "Population-based Drug Repurposing to Treat Thrombosis in COVID-19 Patients". ISC 2021 [ePoster](https://asa.apprisor.org/epsWelcome.cfm?CFID=7952593&CFTOKEN=ca73f34f25fd805c-997716EE-A882-88A9-42D02979DBABEDDB)
-- "Literature Mining Approach to Extract Drug Effectiveness in Clinical Trials. An Application to Alzheimer's Disease" AMIA Informatics Summit, 2021
-- "Causal Pathway to Analyze Racial Disparities in Alzheimer’s Disease and Related Dementia", Alzheimer's Association International Conference (AAIC), 2020 [video](https://player.vimeo.com/video/434931988)
-- "Influenza Vaccination is associated with a reduced incidence of Alzheimer’s Disease", AAIC, 2020
-- "Temporal Phenotyping for Transitional Disease Progress: an Application to Epilepsy and Alzheimer’s Disease", WSDM Workshop Healthcare Day 2020, Houston, Texas
-- "Discriminative Sleep Patterns of Alzheimer's Disease via Tensor Factorization", AMIA 2019, Washington D.C.
-- "Optimized Medication Regimen for Parkinson's Disease", Rice Data Science Conference October 15, 2019, Houston, Texas
-- "Sequential and Diverse Recommendation with Long Tail", International Joint Conference on Artificial Intelligence August 14, 2019, Macau, China
-- "Finding Discriminative Subgroups of Brain Regions using Tensor Factorization", ACM KDD workshop on Applied Data Science for Healthcare. August 4, 2019, Anchorage, Alaska
-- "Discovering Underlying Concepts with Tensor Factorization", Center for Health Security and Phenotyping, School of Biomedical Informatics, University of Texas Health Science Center at Houston, Jan 18, 2019, Houston, Texas
-- "Interpretable and Federated Tensor Factorization for Computational Phenotyping", Department of Computer Engineering, Hong Kong Baptist University, June 20 2018, Hong Kong
-- "Tensor Factorization for Computational Phenotyping", School of Biomedical Informatics, University of Texas Health Science Center at Houston, Nov 28 2018, Houston, Texas
-- "Data Science and Applications", Department of Management Engineering, Ulsan National Institute of Science and Technology, May 29 2018, Ulsan, Korea
-- "Data Science and Applications", Korea University WISET, Sep 12 2018, Seoul, Korea
-- "Tensor Factorization for Computational Phenotyping", KCC 2017 Spotlight Session for Young Women Scholars Jun 21 2017, Jeju, Korea
-- "Tutorial: Matrix/Tensor factorization and its applications", Department of Medical Informatics, Catholic University of Korea, Nov 20 2017, Seoul, Korea
-- "DiagTree: Diagnostic Tree for Differential Diagnosis", The Korea Society of Medical Informatics, Nov 17 2017, Seoul, Korea
-- "DiagTree: Diagnostic Tree for Differential Diagnosis", International Conference on Information and Management, Nov 12 2017, Singapore
-- "Federated Tensor Factorization for Computational Phenotyping (poster)". The 23rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Aug 14, 2017, Halifax, Nova Scotia, Canada 
-- "Discovery of prostate specific antigen pattern to predict castration resistant prostate cancer of androgen deprivation therapy", ACM Ninth International Workshop on Data and Text Mining in Biomedical Informatics in conjunction  with CIKM, Oct 23, 2015, Melbourne, Australia 
