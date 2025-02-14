@@ -6,7 +6,7 @@ theme: minima # or any other Jekyll theme
 markdown: kramdown
 
 # Optional: if you want a navigation menu
-navigation:
+header_pages:
   - title: "Home"
     url: "/"
   - title: "Professor"
