@@ -6,9 +6,6 @@ permalink: "/team"
 
 ## Antibody Design Team
 
-Meet the researchers working at the intersection of AI and immunology.
-![alt text](assets/images/antibody-group.png)
-
 <div class="team">
   {% for member in site.data.team.antibody %}
     <div class="team-member">

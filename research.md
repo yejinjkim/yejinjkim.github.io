@@ -4,41 +4,33 @@ title: "Research"
 permalink: "/research"
 ---
 
-## 4.1 Main Research Areas
+## Research Areas
 
-## Research Interests
-Novel machine learning model development
-- Protein generative model
-- Knowledge engineering using large language model 
-- Computational phenotyping with longitudinal data
 
-Application area
-- Therapy development
-- Emulating clinical trials
-- Alzheimer's disease
+<div class="research-thumbnails">
+  <a href="pages/research/antibody.md" class="research-box">
+    <img src="/assets/images/research/antibody.png" alt="Antibody design">
+    <h3>AI for antibody design</h3>
+  </a>
 
-[![Research 1 Thumbnail](/assets/images/research1.jpg){: width="200px" }](#research1)  
-**Research 1: Human-Centered Clinical Decision Support**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
+  <a href="pages/research/llm.md" class="research-box">
+    <img src="/assets/images/research/llm.png" alt="LLM">
+    <h3>LLM for scientific discovery</h3>
+  </a>
 
-[![Research 2 Thumbnail](/assets/images/research2.jpg){: width="200px" }](#research2)  
-**Research 2: AI-Driven Therapeutic Antibody Discovery**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
+  <a href="pages/research/clinical.md" class="research-box">
+    <img src="/assets/images/research/brain.png" alt="brain">
+    <h3>Counterfactual inference</h3>
+  </a>
+</div>
 
-[![Research 3 Thumbnail](/assets/images/research3.jpg){: width="200px" }](#research3)  
-**Research 3: Large Language Models in Scientific Research**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-
-*(You can create subpages or sections for each research project if you want more detail.)*
 
 ---
 
-## 4.2 Publication List
+## Publication List
 The full recent publication list is available at [google scholar](https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ)
 
-- **Kim, Y.** (2025). *Title of publication*. Journal/Conference.  
-- **Kim, Y.**, Co-author, X. (2024). *Title of publication*. Journal/Conference.  
-*(Add your publication list here in the format you prefer.)*
+
 
 
 
