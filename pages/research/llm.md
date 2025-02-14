@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "llm"
+title: "LLM for Scientific Discovery"
 permalink: "/research/llm"
 ---
 

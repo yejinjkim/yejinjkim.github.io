@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Antibody"
+title: "Antibody deisng using AI"
 permalink: "/research/antibody"
 ---
 

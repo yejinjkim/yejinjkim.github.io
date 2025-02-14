@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "clinical"
+title: "Counterfactual inference"
 permalink: "/research/clinical"
 ---
 
