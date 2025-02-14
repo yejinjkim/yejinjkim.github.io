@@ -9,22 +9,22 @@ permalink: "/research"
 
 <div class="research-thumbnails">
   <a href="/research/antibody" class="research-box">
-    <img src="/assets/images/research/antibody.png" alt="Antibody design">
+    <img src="../assets/images/research/antibody.png" alt="Antibody design">
     <h3>AI for antibody design</h3>
   </a>
 
   <a href="/research/llm" class="research-box">
-    <img src="/assets/images/research/llm.png" alt="LLM">
+    <img src="../assets/images/research/llm.png" alt="LLM">
     <h3>LLM for scientific discovery</h3>
   </a>
 
   <a href="/research/graph" class="research-box">
-    <img src="/assets/images/research/brain.png" alt="brain">
+    <img src="../assets/images/research/brain.png" alt="brain">
     <h3>Graph modeling</h3>
   </a>
 
   <a href="/research/counterfactual" class="research-box">
-    <img src="/assets/images/research/earth.png" alt="earth">
+    <img src="../assets/images/research/earth.png" alt="earth">
     <h3>Counterfactual inference</h3>
   </a>
 </div>
