@@ -29,12 +29,18 @@ permalink: "/research"
 
 ## Publication List
 The full recent publication list is available at [google scholar](https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ)
-
+<iframe> 
+  src="https://scholar.google.com/citations?user=3XptxD8AAAAJ&hl=en" 
+  style="width: 100%; height: 600px; border: 0;" 
+  frameborder="0">
+</iframe>
 
 
 
 
 ## Selected presentation
+
+<div class="scroll-box" markdown="1">
 - "Prediction of Individual Treatment Effects of Rehabiliation for Post-stroke Patients", World Stroke Congress, 2021.
 - "Population-based Drug Repurposing to Treat Thrombosis in COVID-19 Patients". ISC 2021 [ePoster](https://asa.apprisor.org/epsWelcome.cfm?CFID=7952593&CFTOKEN=ca73f34f25fd805c-997716EE-A882-88A9-42D02979DBABEDDB)
 - "Literature Mining Approach to Extract Drug Effectiveness in Clinical Trials. An Application to Alzheimer's Disease" AMIA Informatics Summit, 2021
@@ -56,3 +62,5 @@ The full recent publication list is available at [google scholar](https://schola
 - "DiagTree: Diagnostic Tree for Differential Diagnosis", International Conference on Information and Management, Nov 12 2017, Singapore
 - "Federated Tensor Factorization for Computational Phenotyping (poster)". The 23rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Aug 14, 2017, Halifax, Nova Scotia, Canada 
 - "Discovery of prostate specific antigen pattern to predict castration resistant prostate cancer of androgen deprivation therapy", ACM Ninth International Workshop on Data and Text Mining in Biomedical Informatics in conjunction  with CIKM, Oct 23, 2015, Melbourne, Australia 
+</div>
+
