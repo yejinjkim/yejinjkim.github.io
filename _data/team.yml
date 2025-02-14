@@ -1,9 +1,50 @@
-- name: John Doe
-  headshot: /assets/images/team/akshita.jpg
-  position: Professor of Mathematics
-  email: johndoe@example.com
+antibody:
+- name: Xinyan Zhao, PhD
+  headshot: /assets/images/team/Xinyan_Zhao.JPG
+  position: Postdoctoral fellow
+  expertise: NLP, LLM, machine learning
+  email: xinyan.zhao@uth.tmc.edu
 
-- name: Jane Smith
+- name: Yi-Ching Tang, PhD
   headshot: /assets/images/team/yiching.png
-  position: Associate Professor of Physics
-  email: janesmith@example.com
+  position: Faculty Associate
+  expertise: Bioinformatics
+  email: yi-ching.tang@uth.tmc.edu
+
+- name: Victor Cantu, PhD
+  headshot: /assets/images/team/victor.jpg
+  position: AI/ML Programmer
+  expertise: Biochemistry
+  email: victor.j.cantu@uth.tmc.edu
+
+- name: Akshita Singh
+  headshot: /assets/images/team/akshita.jpg
+  position: Scientific Programmer
+  expertise: Bioinformatics
+  email: akshita.singh@uth.tmc.edu
+
+- name: Kwanho An
+  headshot: /assets/images/team/kwanho.jpg
+  position: graduate research assistant (master)
+  expertise: Bioinformatics
+  email: kwanho.an@uth.tmc.edu
+
+- name: Junseok Lee
+  headshot: /assets/images/team/junseok.jpg
+  position: graduate research assistant (PhD)
+  expertise: Machine learning
+  email: junseok.lee@uth.tmc.edu
+
+llm:
+- name: Yaobin Ling
+  headshot: /assets/images/team/yaobin.jpg
+  position: graduate research assistant (PhD)
+  expertise: Machine learning, Causal inference
+  email: yaobin.ling@uth.tmc.edu
+
+- name: Qidi Xu
+  headshot: /assets/images/team/qidi.jpg
+  position: graduate research assistant (PhD)
+  expertise: LLM for Scientific discovery
+  email: qidi.xu@uth.tmc.edu
+
