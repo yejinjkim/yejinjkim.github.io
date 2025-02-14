@@ -18,25 +18,16 @@ permalink: "/research"
     <h3>LLM for scientific discovery</h3>
   </a>
 
-  <a href="/research/clinical" class="research-box">
+  <a href="/research/graph" class="research-box">
     <img src="/assets/images/research/brain.png" alt="brain">
+    <h3>Graph modeling</h3>
+  </a>
+
+  <a href="/research/counterfactual" class="research-box">
+    <img src="/assets/images/research/earth.png" alt="earth">
     <h3>Counterfactual inference</h3>
   </a>
 </div>
-
-
----
-
-## Publication List
-The full recent publication list is available at [google scholar](https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ)
-<iframe> 
-  src="https://scholar.google.com/citations?user=3XptxD8AAAAJ&hl=en" 
-  style="width: 100%; height: 600px; border: 0;" 
-  frameborder="0">
-</iframe>
-
-
-
 
 ## Selected presentation
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Counterfactual inference"
-permalink: "/research/clinical"
+permalink: "/research/counterfactual"
 ---
 
 
