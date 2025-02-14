@@ -9,9 +9,9 @@ Our group's long-term vision is to bridge the gap between artificial intelligenc
 
 
 <p align="center">
-  <img src="../assets/images/research/antibody.png" alt="antibody" width="200"/>
-  <img src="../assets/images/research/llm.png" alt="llm" width="200"/>
-  <img src="../assets/images/research/brain.png" alt="brain" width="200"/>
+  <img src="/assets/images/research/antibody.png" alt="antibody" width="200"/>
+  <img src="/assets/images/research/llm.png" alt="llm" width="200"/>
+  <img src="/assets/images/research/brain.png" alt="brain" width="200"/>
 </p>
 
 
