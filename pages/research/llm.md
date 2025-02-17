@@ -4,8 +4,6 @@ title: "LLM for Scientific Discovery"
 permalink: "/research/llm"
 ---
 
-# LLM for Scientific Discovery
-
 Our research focuses on leveraging **Large Language Models (LLMs)** to drive scientific discovery, particularly in data-scarce environments. Below are two key projects that illustrate how LLMs can revolutionize **synthetic data generation** and **drug synergy prediction** in healthcare.
 
 ---
