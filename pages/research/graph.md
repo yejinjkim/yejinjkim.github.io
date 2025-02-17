@@ -17,7 +17,7 @@ Another study applies multi-task deep learning to Alzheimer's disease drug repur
 Our research underscores the power of AI/ML in harmonizing fragmented biomedical data, identifying therapeutic targets, and accelerating precision medicine. We seek PhD students and postdocs with expertise in machine learning, computational biology, and large-scale data integration to advance these methodologies for broader biomedical challenges.
 
 **Selected publications**
-- Hsieh, K., Wang, Y., Chen, L. et al. Drug repurposing for COVID-19 using graph neural network and harmonizing multiple evidence. Sci Rep 11, 23179 (2021). https://doi.org/10.1038/s41598-021-02353-5 (#citations >100)
+- Hsieh, K., Wang, Y., Chen, L. et al. Drug repurposing for COVID-19 using graph neural network and harmonizing multiple evidence. Sci Rep 11, 23179 (2021). https://doi.org/10.1038/s41598-021-02353-5 (**#citations >100**)
 - Hsieh, K.L., Plascencia-Villa, G., Lin, K.H., Perry, G., Jiang, X. and Kim, Y., 2023. Synthesize heterogeneous biological knowledge via representation learning for Alzheimer’s disease drug repurposing. Iscience, 26(1).
 - Lin, K.H., Hsieh, K.L., Jiang, X. and Kim, Y., 2023. Integrating Comorbidity Knowledge for Alzheimer’s Disease Drug Repurposing using Multi-task Graph Neural Network. AMIA Summits on Translational Science Proceedings, 2023, p.378.
 

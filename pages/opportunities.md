@@ -11,7 +11,7 @@ permalink: "/opportunities"
 Advancing healthcare is one of the most impactful contributions a researcher can make. AI-driven innovations have the potential to **revolutionize medicine**, from **precision diagnostics** to **personalized treatments**. Our group is at the forefront of **AI-powered biomedical research**, shaping the future of healthcare.  
 
 ✅ **Join a Globally Recognized Institution**  
-McWilliams **School of Biomedical Informatics at UTHealth** is ranked **#2 worldwide** in **biomedical informatics** (University Ranking by **ScholarGPS**). We are **pioneering AI research** that bridges **computational science and healthcare**, working on cutting-edge applications with real-world impact.  
+McWilliams School of Biomedical Informatics at UTHealth is ranked **#2 worldwide** in **biomedical informatics** (University Ranking by [ScholarGPS](https://scholargps.com/specialties/25928167812526/health-informatics)). We are **pioneering AI research** that bridges **computational science and healthcare**, working on cutting-edge applications with real-world impact.  
 
 ✅ **Unmatched Access to Biomedical Data**  
 UTHealth is located in the **Texas Medical Center (TMC)**—the **largest medical center in the world**. This gives us **unparalleled access to high-quality biomedical datasets**, a critical foundation for advancing **AI in medicine**.  
