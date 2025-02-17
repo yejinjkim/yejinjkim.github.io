@@ -36,7 +36,7 @@ We always welcome highly motivated and self-driven graduate students to join our
 
 
 ### For Postdoctoral fellow
-We are actively recruiting talented postdoctoral fellows with strong motivation and proven track records. Postdoctoral fellow will be paid based on NIH guidelines. Candidate must hold Ph.D in computational background (e.g., computer science, statistics, data science, mathematics, and biomedcal informatics) and have strong publications records. See [job posting](https://careers.uth.tmc.edu/us/en/job/2500001F/Postdoctoral-Research-Fellow-Biomedical-Informatics).
+We are actively recruiting talented postdoctoral fellows with strong motivation and proven track records. Postdoctoral fellow will be paid based on NIH guidelines. Candidate must hold Ph.D in computational background (e.g., computer science, statistics, data science, mathematics, and biomedcal informatics) and have strong publications records. Send your CV via email. 
 
 ### For Internship
 We provide a paid summer internship position for those who can actively participate in research long term and ultimately plan to apply for our school. 
