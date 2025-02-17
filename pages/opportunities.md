@@ -29,7 +29,7 @@ Join us in **pushing the boundaries of AI** to solve real-world healthcare chall
 ---
 
 ### For Graduate Students
-We always welcome highly motivated and self-driven graduate students to join our group. Graduate research assistants will be paid stipend generously to fully cover tuitions and living expenses. High priority will be given to students with strong computational background (e.g., computer science, statistics, mathematics). Please
+We always welcome highly motivated and self-driven graduate students to join our group. Graduate research assistants will be paid stipend generously to fully cover tuitions and living expenses. High priority will be given to students with strong computational background (e.g., computer science, statistics, mathematics) and proven track records of research interest (publication, conference presentation, etc). Please follow the three steps below.
 1. [Apply](https://sbmi.uth.edu/applysbmi/) to McWilliams School of Biomedical Informatics (due July 1 for Spring, December 1 for Fall admission). 
 2. Fill out the [form](https://forms.gle/Affb1USehKBp8TGp7)
 3. Send email to Dr. Yejin Kim.
