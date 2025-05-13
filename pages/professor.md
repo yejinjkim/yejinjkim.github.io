@@ -67,7 +67,7 @@ Conference 2020 Technology and Dementia
 - **AI conference**: [ICLR]((https://iclr.cc/)) (2024- ), [KDD](https://www.kdd.org/) (2025- ), [AAAI](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/) (2019-), [ECAI](https://ecai2025.org/) (2025-) EMNLP (2024-), [ACL](https://2024.aclweb.org) (2024-), [IJCAI](https://ijcai-21.org/) (2021-),  [WSDM](http://www.wsdm-conference.org/2020/call-for-healthcare-day.php) (2020), [ACL Clinical NLP workshop](https://clinical-nlp.github.io/2023/), [WWW](https://www2018.thewebconf.org/)
 - **Health Data Science conference**: [AMIA Informatics Summit](https://amia.org/education-events/amia-2022-informatics-summit) (Senior program committee), [ICIBM](https://icibm2024.iaibm.org/) (2024, local co-chair), [IEEE ICHI](http://ichi2020.de/) (2020-), IEEE/ACM TCBB (2020-), [AMIA Annual Symposium](https://www.amia.org/amia2017/spc) (2019-), [IEEE BIBM](https://ieeebibm.org/BIBM2020/) (2019-), [ACM BCB](http://acm-bcb.org/2017/),  [SBMI Machine Learning Hackathon](https://sbmi.uth.edu/hackathon/) (organizer)
 
-- **Journals**: Nature Communication, npj Digital Medicine, Bioinformatics, PNAS Nexus, Cell Reports, Briefing in Bioinformatics, JAMA Network Open, J. of Biomedical Informatics, J. Am. Medical Informatics, Scientific Reports
+- **Journals**: Nature Communication, npj Digital Medicine, PNAS Nexus Bioinformatics, PNAS Nexus, Cell Reports, Briefing in Bioinformatics, JAMA Network Open, J. of Biomedical Informatics, J. Am. Medical Informatics, Scientific Reports
 
 
 **Journal Editors**
