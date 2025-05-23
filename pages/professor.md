@@ -51,7 +51,7 @@ Conference 2020 Technology and Dementia
 - 2020	|	Microsoft Research Faculty Gift
 
 **Grant Review Panels and Study Section**
-- 2025	| NIH CSR HSS (Health Services & System) 
+- 2025	| NIH CSR Topics in Clinical Data Management, Analysis, Informatics and Digital Health A ZRG1 HSS-R (90)
 - 2025 |	NIH CSR ASPB Analytics and Statistics for Population Research panel B Study Section
 - 2024	| NIH CSR HSS (Health Services & System) ZRG1 HSS-B (02) M
 - 2024 |	NIH NINDS Team Science COMBINE RM1 Special Panel Review ZNS1 SRB-S (21)
