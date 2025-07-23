@@ -19,6 +19,7 @@ Our group's long-term vision is to bridge the gap between artificial intelligenc
 
 
 <div class="scroll-box" markdown="1">
+- **Jan 2025** Gave a tutorial on "AI-guided Antibody Discovery" at PepTalk 2025, San Diego
 - **Dec 2024:** So honored to be featured in UTHealth Insider [news](https://www.linkedin.com/feed/update/urn:li:activity:7274468512646017024/).
 - **Oct 2024:** Awarded NIH Research Project Grant R01 as PI ($3.9M for five years) for data-driven disease subtyping for Alzheimer's disease.
 - **Oct 2024:** Gave a talk "AI for Computational Phenotyping and Predicting Accelerated Aging" at UTHealth Houston Neuroscience Research Center and Aging Research Symposium.
