@@ -2,9 +2,9 @@
 
 ### To Bridge the Gap Between Artificial Intelligence and the Real World Healthcare Challenges
 
-Our group's long-term vision is to bridge the gap between artificial intelligence (AI) and human health. We advance machine learning to address real-world health challenge. Our research focuses on developing human-centered machine learning models that recognize patterns among diseases and develop therapies.
+Our group's long-term vision is to bridge the gap between artificial intelligence (AI) and human health. We advance machine learning to address real-world health challenges. Our research focuses on developing human-centered machine learning models that recognize patterns among diseases and develop therapies.
 
-[**We are recruiting highly motivated Ph.D students and Postdoctoral fellow. See details!**](opportunities)
+[**We are recruiting highly motivated Ph.D students and Postdoctoral fellows. See details!**](opportunities)
 
 
 
@@ -19,11 +19,13 @@ Our group's long-term vision is to bridge the gap between artificial intelligenc
 
 
 <div class="scroll-box" markdown="1">
+- ** Sep 2025** Dr. Kim was promoted to Tenured Associate Professor!
+- ** Aug 2025** Top Five performers in [AIntibody Challenge](https://www.aintibody.org/) organized by IQVIA Laboratories with 166 participants from academia, biotech, pharma, and big tech companies.
 - **Jan 2025** Gave a tutorial on "AI-guided Antibody Discovery" at PepTalk 2025, San Diego
 - **Dec 2024:** So honored to be featured in UTHealth Insider [news](https://www.linkedin.com/feed/update/urn:li:activity:7274468512646017024/).
 - **Oct 2024:** Awarded NIH Research Project Grant R01 as PI ($3.9M for five years) for data-driven disease subtyping for Alzheimer's disease.
-- **Oct 2024:** Gave a talk "AI for Computational Phenotyping and Predicting Accelerated Aging" at UTHealth Houston Neuroscience Research Center and Aging Research Symposium.
-- **Jan 2024:** Gave a talk "AI/ML to Identify Personalized Treatment Effect from Data" at Artificial Intelligence in Biomedicine and Healthcare Workshop by McWilliams School of Biomedical Informatics, UTHealth Houston.
+- **Oct 2024:** Gave a talk, "AI for Computational Phenotyping and Predicting Accelerated Aging," at UTHealth Houston Neuroscience Research Center and Aging Research Symposium.
+- **Jan 2024:** Gave a talk "AI/ML to Identify Personalized Treatment Effect from Data" at the Artificial Intelligence in Biomedicine and Healthcare Workshop by McWilliams School of Biomedical Informatics, UTHealth Houston.
 - **Nov 2023:** Awarded NIH Research Project Grant R01 as PI ($4M for five years) on federated learning for multiple clinical data.
 - **Aug 2023:** Our work, [CancerGPT](https://arxiv.org/abs/2304.10946), was invited for a talk at [PathAI](https://www.pathai.com).
 - **May 2023:** Gave an invited talk at [The Web Conference 2023 Health Day](https://www2023.thewebconf.org).
@@ -41,3 +43,4 @@ Our group's long-term vision is to bridge the gap between artificial intelligenc
 - **Sep 2019:** Initiated the [SBMI Datathon Series](https://sbmi.uth.edu/datathon/) as an organizer.
 - **Sep 2019:** Awarded Robert Wood Johnson Foundation Health Data 4 Action grant as PI.
 </div>
+
