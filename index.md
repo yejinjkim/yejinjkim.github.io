@@ -19,8 +19,8 @@ Our group's long-term vision is to bridge the gap between artificial intelligenc
 
 
 <div class="scroll-box" markdown="1">
-- ** Sep 2025** Dr. Kim was promoted to Tenured Associate Professor!
-- ** Aug 2025** Top Five performers in [AIntibody Challenge](https://www.aintibody.org/) organized by IQVIA Laboratories with 166 participants from academia, biotech, pharma, and big tech companies.
+- **Sep 2025** Dr. Kim was promoted to Tenured Associate Professor!
+- **Aug 2025** Top Five performers in [AIntibody Challenge](https://www.aintibody.org/) organized by IQVIA Laboratories with 166 participants from academia, biotech, pharma, and big tech companies.
 - **Jan 2025** Gave a tutorial on "AI-guided Antibody Discovery" at PepTalk 2025, San Diego
 - **Dec 2024:** So honored to be featured in UTHealth Insider [news](https://www.linkedin.com/feed/update/urn:li:activity:7274468512646017024/).
 - **Oct 2024:** Awarded NIH Research Project Grant R01 as PI ($3.9M for five years) for data-driven disease subtyping for Alzheimer's disease.
@@ -43,4 +43,5 @@ Our group's long-term vision is to bridge the gap between artificial intelligenc
 - **Sep 2019:** Initiated the [SBMI Datathon Series](https://sbmi.uth.edu/datathon/) as an organizer.
 - **Sep 2019:** Awarded Robert Wood Johnson Foundation Health Data 4 Action grant as PI.
 </div>
+
 
