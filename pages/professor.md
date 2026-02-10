@@ -4,7 +4,7 @@ title: "Professor"
 permalink: "/professor"
 ---
 
-<img align="right" width="200" src="../assets/images/team/yejin.png">
+<img align="right" width="200" src="../assets/images/team/534A2F64-5553-4340-8FD1-0C5AC9F66445.png">
 
 Yejin Kim, PhD
 ==========
