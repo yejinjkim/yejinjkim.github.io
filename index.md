@@ -19,7 +19,8 @@ Our group's long-term vision is to bridge the gap between artificial intelligenc
 
 
 <div class="scroll-box" markdown="1">
-- **Sep 2025** Dr. Kim was promoted to Tenured Associate Professor!
+- **May 2025** Invited to talk at PEGS 2026 about AI-based antibody design
+  - **Sep 2025** Dr. Kim was promoted to Tenured Associate Professor!
 - **Aug 2025** Top Five performers in [AIntibody Challenge](https://www.aintibody.org/) organized by IQVIA Laboratories with 166 participants from academia, biotech, pharma, and big tech companies.
 - **Jan 2025** Gave a tutorial on "AI-guided Antibody Discovery" at PepTalk 2025, San Diego
 - **Dec 2024:** So honored to be featured in UTHealth Insider [news](https://www.linkedin.com/feed/update/urn:li:activity:7274468512646017024/).
