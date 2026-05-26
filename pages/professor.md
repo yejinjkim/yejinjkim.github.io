@@ -8,7 +8,7 @@ permalink: "/professor"
 
 Yejin Kim, PhD
 ==========
-Assistant Professor\
+Associate Professor (tenured)\
 Associate Director of the Center for Secure Artificial Intelligence for Healthcare\
 Department of Health Data Science and Artificial Intelligence \
 [McWilliams School of Biomedical Informatics](https://sbmi.uth.edu/) \
@@ -22,15 +22,15 @@ Yejin.Kim@uth.tmc.edu \
 
 ---
 
-My recent research areas include developing AI algorithms for disease progression modeling and therapy development for neurodegenerative diseases. My research has made significant strides in biomedical AI, as evidenced by my successful track record of securing extramural funding. As the principal investigator, I have secured $8 million in extramural funding from various grants, an outstanding and rare achievement for an assistant professor. This includes two NIH R01 grants, an R01 supplement, and a Data Access Grant from the Robert Wood Johnson Foundation. Additionally, I have contributed as a co-investigator on more than ten other NIH grants. My research publications have been widely recognized, with over 50 peer-reviewed articles published in top-tier biomedical informatics journals such as npj Digital Medicine (impact factor 15), JAMIA, JMIR, Bioinformatics, JBI, and top-tier machine learning conferences, including SIGKDD, CIKM, and IJCAI. 
+My recent research areas include developing AI algorithms for disease progression modeling and therapy development for neurodegenerative diseases. My research has made significant strides in biomedical AI, as evidenced by my successful track record of securing extramural funding. As the principal investigator, I have secured $8 million in extramural funding from various grants, an outstanding and rare achievement during the pre-tenure stage. This includes two NIH R01 grants, an R01 supplement, and a Data Access Grant from the Robert Wood Johnson Foundation. Additionally, I have contributed as a co-investigator on more than ten other NIH grants. My research publications have been widely recognized, with over 50 peer-reviewed articles published in top-tier biomedical informatics journals such as npj Digital Medicine (impact factor 15), JAMIA, JMIR, Bioinformatics, JBI, and top-tier machine learning conferences, including SIGKDD, CIKM, and IJCAI. 
 
 In addition to my research activities, I have contributed to the academic community through various service. Demonstrating my research excellence and reputation, I have served on numerous grant review panels and study sections, including NIH CSR CDMA, ASPB, HSS, MABS, and NINDS Special Emphasis Panel. Recognizing my international academic reputation, I have also served on grant review panels for the United Kingdom (UK Research and Innovation), Canada and Israel (Fonds de recherche du Québec; Ministry of Innovation, Science & Technology – State of Israel), and Luxembourg (Luxembourg National Science Foundation). Furthermore, I have held critical roles in the broader academic community. I have served as an academic editor for PLoS Biology and a reviewer for prestigious journals such as Nature Communications, JAMA Network Open, npj Digital Medicine, JAMIA, JBI, and Briefings in Bioinformatics. I have held leadership roles at the International Conference on Intelligence Biology Medicine (local chair) and AMIA Working Group (Women in AMIA). Additionally, I have served on the program committees for flagship machine learning conferences, including ICLR, NeuroIPS, ACL, EMNLP, AAAI, IJCAI, and SIGKDD.
 
 ---
 **Education and Career**
-- 2025 - | Associate Professor (tenured), Department of Health Data Science and Artificial Intelligence, McWilliams School of Biomedical Informatics, University of Texas Health Science Center at Houston
+- 2025 - current | Associate Professor (tenured), Department of Health Data Science and Artificial Intelligence, McWilliams School of Biomedical Informatics, University of Texas Health Science Center at Houston
 - 2024 - current | Associate Director, Center for Secure Artificial Intelligence for Healthcare, McWilliams School of Biomedical Informatics, University of Texas Health Science Center at Houston
-- 2018 - current | Assistant Professor, Department of Health Data Science and Artificial Intelligence, McWilliams School of Biomedical Informatics, University of Texas Health Science Center at Houston
+- 2018 - 2025 | Assistant Professor, Department of Health Data Science and Artificial Intelligence, McWilliams School of Biomedical Informatics, University of Texas Health Science Center at Houston
 - 2012 - 2017 | Ph.D. in Computer Science, Pohang University of Science and Technology, Pohang, South Korea
 - 2008 - 2012 | B.S. in Industrial Engineering (Magna cum laude), Pohang University of Science and Technology, Pohang, South Korea
 
