@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Lectures"
+title: "Teaching"
 permalink: "/lectures"
 ---
 
-## Lectures
+## Teaching
 - **Spring 2023-**  
   **Course:** BMI 6319 Data Analysis for Scientific Research in Biomedical Informatics
 
@@ -23,5 +23,4 @@ permalink: "/lectures"
 - **Fall 2019-**  
   **Course:** BMI 5311 Foundation II: Information Retrieval and Data Mining  
   **Lecture Type:** Invited lecture
-
 
