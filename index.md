@@ -1,10 +1,18 @@
-## Dr. Yejin Kim
+<img align="right" width="180" src="/assets/images/team/534A2F64-5553-4340-8FD1-0C5AC9F66445.png" alt="Yejin Kim, PhD">
 
-### To Bridge the Gap Between Artificial Intelligence and the Real World Healthcare Challenges
+### AI for Healthcare: From Machine Learning Methods to Real-World Biomedical Impact
 
-Our group's long-term vision is to bridge the gap between artificial intelligence (AI) and human health. We advance machine learning to address real-world health challenges. Our research focuses on developing human-centered machine learning models that recognize patterns among diseases and develop therapies.
+I am a tenured Associate Professor in the Department of Health Data Science and Artificial Intelligence at McWilliams School of Biomedical Informatics, UTHealth Houston, and Associate Director of the Center for Secure Artificial Intelligence for Healthcare.
 
-[**We are recruiting highly motivated Ph.D students and Postdoctoral fellows. See details!**](opportunities)
+My research group develops human-centered AI and machine learning methods for real-world healthcare challenges, with current focus areas in disease progression modeling, counterfactual inference, biomedical graph learning, large language models for scientific discovery, and AI-guided therapeutic antibody design.
+
+[CV](/assets/files/Yejin_Kim_CV_2024.pdf) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ&view_op=list_works&sortby=pubdate) | [Email](mailto:Yejin.Kim@uth.tmc.edu) | [Research Opportunities](/opportunities)
+
+**We are recruiting highly motivated Ph.D. students and postdoctoral fellows.**
+
+[See research opportunities](/opportunities)
+
+<br clear="right">
 
 
 
