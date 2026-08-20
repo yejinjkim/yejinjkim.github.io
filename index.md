@@ -44,9 +44,10 @@ My research group develops human-centered AI and machine learning methods for re
 - **Nov 2022:** Served as a grant review panelist for AI in Healthcare (Fonds de recherche du Québec & Ministry of Innovation, Science & Technology - Israel).
 - **Nov 2022:** Gave a talk at [AI in Health Conference](https://www.aihealthconference.com), organized by Rice Ken Kennedy Institute.
 - **Sep 2022:** Our vaccine and Alzheimer's study was invited to testify before the U.S. Department of Health & Human Services.
+- **Jun 2022:** Our flu vaccination and Alzheimer's study was covered by [ScienceDaily](https://www.sciencedaily.com/releases/2022/06/220624123814.htm).
 - **Jan 2021:** Top 10% most cited *PLoS One* article in 2016 [paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159788).
 - **Jul 2020:** Selected as an AAIC 2020 Highlighted Poster.
-- **Jul 2020:** Our team's vaccine and Alzheimer's study was covered by [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows), [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html), and [ScienceDaily](https://www.sciencedaily.com/releases/2022/06/220624123814.htm).
+- **Jul 2020:** Our team's vaccine and Alzheimer's study was covered by [NPR](https://www.npr.org/sections/health-shots/2020/07/27/894731147/flu-shot-and-pneumonia-vaccine-might-reduce-alzheimers-risk-research-shows) and [CNN](https://www.cnn.com/2020/07/27/health/flu-pneumonia-shot-lowers-alzheimers-risk-wellness/index.html).
 - **Apr 2020:** Ranked 2nd in the International [DREAM Challenge for Drug Repurposing](https://www.synapse.org/#!Synapse:syn20940518/wiki/596265).
 - **Jan 2020:** Served as a grant review panelist for [Luxembourg National Science Foundation](https://www.fnr.lu/international-cooperation/nsf/).
 - **Nov 2020:** Gave a talk at [AI in Health Conference](https://www.aihealthconference.com), organized by Rice Ken Kennedy Institute.
