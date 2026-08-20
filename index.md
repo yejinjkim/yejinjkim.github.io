@@ -28,7 +28,7 @@ My research group develops human-centered AI and machine learning methods for re
 
 <div class="scroll-box" markdown="1">
 - **April 2026** Our team's study on vaccination and Alzheimer's was featured in [Viva Longevity channel](https://www.youtube.com/watch?v=rOfXvTdSCtY)
-- **May 2026** Invited to talk at PEGS 2026 about AI-based antibody design
+- **May 2026** Invited to talk at [PEGS 2026 about AI-based antibody design](https://www.pegsummit.com/engineering-antibodies)
 - **Sep 2025** Dr. Kim was promoted to Tenured Associate Professor!
 - **Aug 2025** Top Five performers in [AIntibody Challenge](https://www.aintibody.org/) organized by IQVIA Laboratories with 166 participants from academia, biotech, pharma, and big tech companies.
 - **Jan 2025** Gave a tutorial on "AI-guided Antibody Discovery" at PepTalk 2025, San Diego
