@@ -1,0 +1,12 @@
+<header class="nav-bar">
+  <div class="wrap nav-inner">
+    <a class="nav-brand" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    <nav class="nav-links">
+      {% for item in site.header_pages %}
+        <a href="{{ item.url | relative_url }}" class="{% if page.url == item.url %}active{% endif %}">{{ item.title | escape }}</a>
+      {% endfor %}
+      <a href="{{ site.scholar }}">Publications &#8599;</a>
+      <a class="btn-cv" href="{{ site.cv | relative_url }}">CV</a>
+    </nav>
+  </div>
+</header>

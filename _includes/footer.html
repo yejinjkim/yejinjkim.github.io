@@ -1,0 +1,17 @@
+<footer class="site-foot">
+  <div class="wrap foot-inner">
+    <div>
+      <div class="foot-name">Yejin Kim, PhD</div>
+      <div class="foot-lines">Department of Health Data Science and Artificial Intelligence<br>McWilliams School of Biomedical Informatics<br>UTHealth Houston</div>
+    </div>
+    <div class="foot-lines">
+      {{ site.address_line1 }}<br>{{ site.address_line2 }}<br>
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    </div>
+    <div class="foot-links">
+      <a href="{{ site.scholar }}">Google Scholar</a>
+      <a href="{{ site.linkedin }}">LinkedIn</a>
+      <a href="{{ site.cv | relative_url }}">Curriculum vitae (PDF)</a>
+    </div>
+  </div>
+</footer>

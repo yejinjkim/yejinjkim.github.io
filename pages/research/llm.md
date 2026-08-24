@@ -13,7 +13,7 @@ Our research focuses on leveraging **Large Language Models (LLMs)** to drive sci
 📄 [**Multi-Agent Large Language Model as Generative Adversarial Network for Synthesizing Tabular Data**](https://arxiv.org/pdf/2406.10521)  
 ✍️ *Yaobin Ling, Xiaoqian Jiang, and Yejin Kim*
 
-![MALLM-GAN](../../assets/images/research/mallm-gan.png)
+![MALLM-GAN](/assets/images/research/mallm-gan.png)
 
 In many fields, particularly healthcare, data is a valuable yet limited resource. Privacy concerns, costs, and accessibility barriers often mean that researchers have only small datasets to work with, making it difficult to train advanced machine learning models. Our team has developed **MALLM-GAN**, an innovative AI framework that leverages **large language models (LLMs)** to generate **realistic synthetic data** from limited real-world examples.  
 
@@ -29,7 +29,7 @@ Our experiments show that MALLM-GAN outperforms existing synthetic data generati
 🏆 *Top 10 Most Cited Paper in 2024 in npj Digital Medicine*  
 ✍️ *Tianhao Li, Sandesh Shetty, Advaith Kamath, Ajay Jaiswal, Xiaoqian Jiang, Ying Ding, and Yejin Kim*
 
-![CancerGPT](../../assets/images/research/cancergpt.png)
+![CancerGPT](/assets/images/research/cancergpt.png)
 
 The development of new cancer treatments is often hindered by limited data, particularly for rare cancer types. Traditional machine learning models require large datasets to predict how drugs interact, making it difficult to explore new drug combinations in understudied cancers. Our team has developed CancerGPT, an artificial intelligence model that uses large language models (LLMs) to predict the effectiveness of drug combinations, even with very little or no training data.
 
