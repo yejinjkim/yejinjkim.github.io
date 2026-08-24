@@ -1,30 +1,30 @@
-title: "Dr. Yejin Kim"
-description: "AI for Healthcare"
+title: "Yejin Kim"
+description: "AI for Healthcare: From Machine Learning Methods to Real-World Biomedical Impact"
+affiliation: "McWilliams School of Biomedical Informatics · UTHealth Houston"
+email: "Yejin.Kim@uth.tmc.edu"
+address_line1: "7000 Fannin, Suite 600"
+address_line2: "Houston, Texas 77030"
+scholar: "https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ&view_op=list_works&sortby=pubdate"
+linkedin: "https://www.linkedin.com/in/yejin-kim-647a5377"
+cv: "/assets/files/Yejin_Kim_CV_2024.pdf"
+headshot: "/assets/images/team/534A2F64-5553-4340-8FD1-0C5AC9F66445.png"
+
 baseurl: ""
 url: "https://yejinjkim.github.io"
-theme: minima # or any other Jekyll theme
+theme:
 markdown: kramdown
 
-# Optional: if you want a navigation menu
 header_pages:
   - title: "Home"
     url: "/"
   - title: "Professor"
     url: "/professor"
-  - title: "Team"
-    url: "/team"
   - title: "Research"
     url: "/research"
-  - title: "Publications"
-    url: "https://scholar.google.com/citations?hl=en&user=3XptxD8AAAAJ&view_op=list_works&sortby=pubdate"
-  - title: "Teaching"
-    url: "/lectures"
-  - title: "Funding"
-    url: "/funding"
-  - title: "Opportunities"
+  - title: "Team"
+    url: "/team"
+  - title: "Join us"
     url: "/opportunities"
-  - title: "CV"
-    url: "/assets/files/Yejin_Kim_CV_2024.pdf"
 
 plugins:
   - jekyll-feed

@@ -1,0 +1,11 @@
+<div class="news">
+  {% for item in include.items %}
+    <div class="news-item">
+      <div class="news-date">{{ item.date }}</div>
+      <div>
+        <p>{{ item.text }}</p>
+        {% if item.link_url %}<a class="small-link" href="{{ item.link_url }}">{{ item.link_label }} &#8599;</a>{% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>

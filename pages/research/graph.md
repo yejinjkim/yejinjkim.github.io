@@ -7,7 +7,7 @@ permalink: "/research/graph"
 Our research focuses on leveraging **graph neural network** to represent complex biomedical graph and derive patterns for better understanding of our human biology. 
 
 ## Knowledge graph for drug repurposing
-![alt text](../../assets/images/research/ad-hetero.png)
+![alt text](/assets/images/research/ad-hetero.png)
 Our research focuses on developing advanced AI-driven frameworks for biomedical applications, particularly in drug repurposing. We employ deep learning and graph neural networks (GNNs) to systematically integrate multimodal biological knowledge, enabling efficient drug discovery across diverse diseases.
 
 One study introduces a GNN-based pipeline for drug repurposing by constructing a comprehensive biomedical knowledge graph. This model learns complex interactions among drugs, genes, and phenotypes, prioritizing drug candidates based on in vitro efficacy, transcriptomic reversals, and population-based treatment effects. The integration of deep representation learning and transfer learning enhances model generalizability, supporting rapid and scalable drug discovery.
@@ -23,7 +23,7 @@ Our research underscores the power of AI/ML in harmonizing fragmented biomedical
 
 
 ## Biological network
-![alt text](../../assets/images/research/bbb.png)![alt text](../../assets/images/research/scGPCL.png)
+![alt text](/assets/images/research/bbb.png)![alt text](/assets/images/research/scGPCL.png)
 
 Our research focuses on leveraging advanced machine learning techniques to model biological networks for drug discovery and biomedical applications. We integrate deep learning, graph neural networks (GNNs), and contrastive learning to analyze complex molecular interactions, enhancing drug repurposing, single-cell transcriptomics, and blood-brain barrier (BBB) permeability prediction. Our work employs relational graph convolutional networks (RGCNs) to capture drug-protein interactions, aiding in the identification of therapeutics that penetrate the BBB. We also develop contrastive learning frameworks to cluster single-cell RNA sequencing data, overcoming challenges in cellular heterogeneity. Furthermore, we construct large-scale biomedical knowledge graphs to prioritize drug candidates based on multimodal evidence, from molecular interactions to population-based outcomes. Our approach unifies network biology and deep learning, providing scalable, generalizable models that advance precision medicine. We seek computational researchers to further innovate in AI-driven modeling of biological systems and therapeutic discovery.
 

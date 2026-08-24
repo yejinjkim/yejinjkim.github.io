@@ -4,35 +4,18 @@ title: "Team"
 permalink: "/team"
 ---
 
-## Antibody Design Team
-
-<div class="team">
-  {% for member in site.data.team.antibody %}
-    <div class="team-member">
-      <img src="{{ member.headshot }}" alt="{{ member.name }}">
-      <h3>{{ member.name }}</h3>
-      <p>{{ member.position }}</p>
-      <p>{{ member.expertise }}</p>
-      <p><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
-    </div>
-  {% endfor %}
-</div>
-
----
-
-## LLM for Scientific Discovery Team
-
-<div class="team">
-  {% for member in site.data.team.llm %}
-    <div class="team-member">
-      <img src="{{ member.headshot }}" alt="{{ member.name }}">
-      <h3>{{ member.name }}</h3>
-      <p>{{ member.position }}</p>
-      <p>{{ member.expertise }}</p>
-      <p><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
-    </div>
-  {% endfor %}
-</div>
-
-
-
+{% for group in site.data.team %}
+<section class="sec-ruled">
+  <h2 class="sec-label">{{ group.name }}</h2>
+  <div class="team-grid">
+    {% for m in group.members %}
+      <div class="team-cell">
+        <div class="team-name">{{ m.name }}</div>
+        <div class="team-pos">{{ m.position }}</div>
+        <div class="team-exp">{{ m.expertise }}</div>
+        <a class="small-link" href="mailto:{{ m.email }}">{{ m.email }}</a>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}

@@ -1,30 +1,43 @@
 ---
 layout: default
 ---
+<section class="hero">
+  <div class="wrap hero-inner">
+    <div>
+      <div class="hero-kicker">{{ site.affiliation }}</div>
+      <h1 class="hero-name">{{ site.title | escape }}</h1>
+      <div class="hero-rule"></div>
+      <p class="hero-tagline">{{ site.description | escape }}</p>
+      <div class="hero-actions">
+        <a class="btn-solid" href="{{ '/research' | relative_url }}">Research</a>
+        <a class="btn-outline" href="{{ '/opportunities' | relative_url }}">Join the group</a>
+        <a class="btn-outline" href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </div>
+    </div>
+    <img class="grayscale hero-photo" src="{{ site.headshot | relative_url }}" alt="{{ site.title | escape }}">
+  </div>
+</section>
 
-<div>
+<section class="wrap sec">
+  <h2 class="sec-label">About</h2>
+  <div class="prose lead">
+    {{ content }}
+    <a class="small-link" href="{{ '/professor' | relative_url }}">Full biography and appointments &rarr;</a>
+  </div>
+</section>
 
-  {{ content }}
+<section class="wrap">
+  <div class="banner">
+    <p>We are recruiting highly motivated Ph.D. students and postdoctoral fellows.</p>
+    <a class="btn-invert" href="{{ '/opportunities' | relative_url }}">See research opportunities</a>
+  </div>
+</section>
 
-  <h2>Latest Posts</h2>
-
-  <div>&nbsp;</div>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-
-        {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
-        </h2>
-
-        <span>{{ post.excerpt | markdownify | truncatewords: 30 }}</span>
-
-      </li>
-    {% endfor %}
-  </ul>
-
-</div>
+<section class="wrap sec sec-last">
+  <h2 class="sec-label">Latest news</h2>
+  <div>
+    {% assign latest = site.data.news | slice: 0, 5 %}
+    {% include news-list.html items=latest %}
+    <div class="all-news"><a class="small-link" href="{{ '/news' | relative_url }}">All news &rarr;</a></div>
+  </div>
+</section>
