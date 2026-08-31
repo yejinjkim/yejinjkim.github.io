@@ -1,5 +1,13 @@
 # Newest first. The homepage shows the first five; /news shows all.
 # Each entry: date, text, and optionally link_label + link_url.
+- date: "Aug 2026"
+  text: "UTHealth Houston researchers, including our Novamab AI team, were featured for their top-five performance in the AIntibody Challenge, an international AI antibody design benchmark published in Nature Biotechnology."
+  link_label: "UTHealth News"
+  link_url: "https://www.uth.edu/news/story/uthealth-houston-researchers-advance-antibody-ai"
+- date: "Jul 2026"
+  text: 'Gave an invited talk, "Accelerating Drug Discovery and Development with Machine Learning: From Molecules to Patients," at the Yale Biomedical Informatics & Data Science Rising Star Seminar.'
+  link_label: "Yale Rising Star Seminar"
+  link_url: "https://lnkd.in/p/gR6m-bmZ"
 - date: "May 2026"
   text: "Invited to talk at PEGS 2026 about AI-based antibody design"
   link_label: "PEGS 2026"
