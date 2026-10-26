@@ -12,18 +12,10 @@
       position: "Postdoctoral fellow"
       expertise: "ML"
       email: "Getu.T.Fellek@uth.tmc.edu"
-    - name: "Himansu Kumar, PhD"
-      position: "Research Scientist"
-      expertise: "Bioinformatics"
-      email: "himansu.kumar@uth.tmc.edu"
     - name: "Ronald Newton"
       position: "Graduate Research Assistant"
       expertise: "Biomedical Science"
       email: "ronald.j.newton@uth.tmc.edu"
-    - name: "Adam Stogsdill"
-      position: "Graduate Research Assistant"
-      expertise: "ML"
-      email: "adam.e.stogsill@uth.tmc.edu"
 
 
 - name: "LLM for Scientific Discovery Team"
