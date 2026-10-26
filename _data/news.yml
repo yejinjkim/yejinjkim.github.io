@@ -1,5 +1,9 @@
 # Newest first. The homepage shows the first five; /news shows all.
 # Each entry: date, text, and optionally link_label + link_url.
+- date: "Oct 2026"
+  text: "Dr. Kim was appointed Vice Chair of the Department of Health Data Science and Artificial Intelligence at McWilliams School of Biomedical Informatics, UTHealth Houston."
+- date: "Oct 2026"
+  text: "Newly affiliated with The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences."
 - date: "Aug 2026"
   text: "UTHealth Houston researchers, including our Novamab AI team, were featured for their top-five performance in the AIntibody Challenge, an international AI antibody design benchmark published in Nature Biotechnology."
   link_label: "UTHealth News"
