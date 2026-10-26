@@ -18,12 +18,12 @@
       email: "ronald.j.newton@uth.tmc.edu"
 
 
-- name: "LLM for Scientific Discovery Team"
+- name: "AI for medical informatics"
   members:
-    - name: "Yaobin Ling"
-      position: "Assistant Professor"
-      expertise: "Machine learning, Causal inference"
-      email: "yaobin.ling@uth.tmc.edu"
+    - name: "Muhan Yeo, MD"
+      position: "Research Scientist"
+      expertise: "Machine learning, Cardiology"
+      email: "muhan.yeo@uth.tmc.edu"
     - name: "Qidi Xu"
       position: "Graduate research assistant (PhD)"
       expertise: "LLM for Scientific discovery"
