@@ -32,6 +32,8 @@
 
 - title: "Grant review panels"
   rows:
+    - when: "2026"
+      what: 'Grant review panel member, <a href="https://cdmrp.health.mil/funding/">Congressionally Directed Medical Research Programs (CDMRP)</a>'
     - when: "2025"
       what: "NIH CSR Topics in Clinical Data Management, Analysis, Informatics and Digital Health A ZRG1 HSS-R (90)"
     - when: "2025"
