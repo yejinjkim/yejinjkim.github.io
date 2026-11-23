@@ -7,8 +7,8 @@ permalink: "/professor"
 <div class="prof-head">
   <div class="prof-lines">
     <div>Associate Professor (tenured)</div>
+    <div>Vice Chair, Department of Health Data Science and Artificial Intelligence</div>
     <div>Associate Director, Center for Secure Artificial Intelligence for Healthcare</div>
-    <div>Department of Health Data Science and Artificial Intelligence</div>
     <div><a href="https://sbmi.uth.edu/">McWilliams School of Biomedical Informatics</a></div>
     <div><a href="https://www.uth.edu/">University of Texas Health Science Center at Houston</a></div>
     <div class="prof-contact">
@@ -20,7 +20,7 @@ permalink: "/professor"
 </div>
 
 <div class="prose" markdown="1">
-Yejin Kim is a tenured Associate Professor and Associate Director of the Center for Secure Artificial Intelligence for Healthcare in the Department of Health Data Science and Artificial Intelligence. She received her Ph.D. in Applied Machine Learning from Pohang University of Science and Technology (POSTECH), South Korea.
+Yejin Kim is a tenured Associate Professor and Vice Chair of the Department of Health Data Science and Artificial Intelligence, and Associate Director of the Center for Secure Artificial Intelligence for Healthcare. She received her Ph.D. in Applied Machine Learning from Pohang University of Science and Technology (POSTECH), South Korea.
 
 Her research focuses on developing artificial intelligence algorithms for therapy development and biomedical discovery. Her work has advanced the field of biomedical AI through innovative machine learning methods and a strong record of externally funded research. Over the past five years, as principal investigator, she has secured more than $8 million in extramural research funding, including two NIH R01 grants. She has published more than 60 peer-reviewed papers in leading biomedical informatics journals, including *npj Digital Medicine*, *JAMIA*, *JMIR*, *Bioinformatics*, and the *Journal of Biomedical Informatics*, as well as premier artificial intelligence and machine learning conferences such as SIGKDD, ACL, and IJCAI.
 

@@ -2,6 +2,8 @@
   rows:
     - when: "2025 - current"
       what: "Associate Professor (tenured), Department of Health Data Science and Artificial Intelligence, McWilliams School of Biomedical Informatics, UTHealth Houston"
+    - when: "2026 - current"
+      what: "Vice Chair, Department of Health Data Science and Artificial Intelligence, McWilliams School of Biomedical Informatics, UTHealth Houston"
     - when: "2024 - current"
       what: "Associate Director, Center for Secure Artificial Intelligence for Healthcare, McWilliams School of Biomedical Informatics, UTHealth Houston"
     - when: "2018 - 2025"
